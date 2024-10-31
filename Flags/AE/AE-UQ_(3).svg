@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "https://www.w3.org/Graphics/SVG/1.1/DTD/svg11-flat-20110816.dtd">
+<svg width="2000" height="1000" viewBox="0 0 529.16664 264.58333" version="1.1" id="svg5"
+	xmlns="http://www.w3.org/2000/svg">
+	<defs id="defs2" />
+	<g id="layer1">
+		<rect style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.115627" id="rect234" width="88.194435" height="264.58334" x="-1.110223e-16" y="0" />
+		<rect style="fill:#fd4b32;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258556" id="rect234-1" width="440.9722" height="264.58334" x="88.194435" y="0" />
+		<g id="g57719" transform="matrix(-1,0,0,1,586.21214,-1.3333333e-6)">
+			<path id="path53708" style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.253938" d="m 299.8611,33.072906 a 99.218749,99.218749 0 0 0 -16.41718,1.416365 99.218749,99.218749 0 0 1 82.56301,97.802409 99.218749,99.218749 0 0 1 -82.68229,97.77956 99.218749,99.218749 0 0 0 16.53646,1.43919 99.218749,99.218749 0 0 0 99.21875,-99.21875 99.218749,99.218749 0 0 0 -99.21875,-99.218774 z" />
+			<path style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583" id="path53496" d="m 235.02013,22.602448 19.07923,58.736823 61.75784,-0.0052 -49.96623,36.296097 19.08921,58.73358 -49.96005,-36.3046 -49.96007,36.3046 19.08922,-58.73358 -49.96623,-36.296101 61.75785,0.0053 z" transform="matrix(0,1.0037659,-1.0037651,0,355.30204,-103.61352)" />
+		</g>
+	</g>
+</svg>
