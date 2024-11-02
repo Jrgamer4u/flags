@@ -9,8 +9,8 @@
 | the Islamic Emirate of Afghanistan Province | AF (De facto) | [(Archive)](https://web.archive.org/web/20221229074727/https://www.alemarah.af/Afghanistan-Flag.png) | National:<br><img src="./Flags/AF/AF_De_facto.svg" alt="Islamic Emirate of Afghanistan National" width="200"> |
 | the Islamic Republic of Afghanistan Province | AF (De jure) | [Flag of Afghanistan \| Protocol (Archive)](https://web.archive.org/web/20210814090748/https://www.mfa.gov.af/protocol/flag-of-afghanistan.html) | National:<br><img src="./Flags/AF/AF_De_jure.svg" alt="Islamic Republic of Afghanistan National" width="200"><br><img src="./Flags/AF/AF_De_jure_(2).svg" alt="Islamic Republic of Afghanistan National 2" width="200">
 | Antigua and Barbuda | AG | Flag not clearly defined<br>[Our National Symbols](https://ab.gov.ag/detail_page.php?page=27)<br>[The Museum of Antigua and Barbuda's Facebook photo of the first sewn Antigua and Barbuda flag](https://www.facebook.com/ABMuseum/photos/a.10150414631098032/10162160607288032/?_rdr)<br>[Local Antigua Website](https://antiguanice.com/client.php?id=461&cat=38)| National:<br><img src="./Flags/AG/AG.svg" alt="Antigua and Barbuda National" width="200"><br><img src="./Flags/AG/AG_(2).svg" alt="Antigua and Barbuda National 2" width="200"><br><img src="./Flags/AG/AG_(3).svg" alt="Antigua and Barbuda National 3" width="200">
-| Anguilla | AI |
-| the Republic of Albania | AL |
+| Anguilla | AI | UK flag not clearly defined.<br>Text says the seal on the flag has dolphins but Images show that the seal on the flag has fish.<br>[Former Anguilla Government Website (Archive)](https://web.archive.org/web/20210415110050/http://www.gov.ai/flags.php) | National:<br><img src="./Flags/AI/AI.svg" alt="Anguilla National" width="200"><br><img src="./Flags/AI/AI_(2).svg" alt="Anguilla National 2" width="200">
+| the Republic of Albania | AL | [Law #8926, 22.07.2002](https://upload.wikimedia.org/wikipedia/commons/d/d6/Ligji_8926_22.07.2002.pdf) | National:<br><img src="./Flags/AL/AL.svg" alt="Albania National" width="200"> |
 | the Republic of Armenia | AM |
 | the Republic of Angola | AO |
 | Antarctica | AQ |
@@ -297,7 +297,9 @@
 
 # Subdivisions
 
-| Subdivision | ISO 3166-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
+## Officially Assigned
+
+| Subdivision | ISO 3166-2 | Flag Graphical Rules | Flag | Apple | Google | Samsung | Other (if needed) |
 | - | - | - | - | - | - | - | - |
 | Comú de Canillo | AD-02 | No flag or Needs Evidence of a Flag | |
 | Comú d'Encamp | AD-03 | No flag or Needs Evidence of a Flag | |
@@ -306,13 +308,13 @@
 | Comú de Sant Julià de Lòria | AD-06 | No flag or Needs Evidence of a Flag | |
 | Comú d'Andorra la Vella | AD-07 | No flag or Needs Evidence of a Flag | |
 | Comú Escaldes-Engordany | AD-08 | No flag or Needs Evidence of a Flag | |
-| Imārat ‘Ajmān | AE-AJ | [Coat of Arms on the Ajman Museum](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Ajman_National_Museum_%28Emirate_of_Ajman_UAE%29_-_panoramio.jpg) | <img src="./Flags/AE/AE-AJ.svg" alt="Emirate" width="200"> |
-| Imārat Abū Z̧aby | AE-AZ | [1969 Stamp](https://upload.wikimedia.org/wikipedia/commons/e/e9/Stamp_of_Abu_Dhabi_-_1969_-_Colnect_625777_-_1_-_National_Flag_-_Surcharged.jpeg) | <img src="./Flags/AE/AE-AZ.svg" alt="Emirate" width="200"> |
+| Imārat ‘Ajmān | AE-AJ | [Coat of Arms on the Ajman Museum](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Ajman_National_Museum_%28Emirate_of_Ajman_UAE%29_-_panoramio.jpg) | <img src="./Flags/AE/AE-AJ.svg" alt="Imārat ‘Ajmān" width="200"> |
+| Imārat Abū Z̧aby | AE-AZ | [1969 Stamp](https://upload.wikimedia.org/wikipedia/commons/e/e9/Stamp_of_Abu_Dhabi_-_1969_-_Colnect_625777_-_1_-_National_Flag_-_Surcharged.jpeg) | <img src="./Flags/AE/AE-AZ.svg" alt="Imārat Abū Z̧aby" width="200"> |
 | Imārat al-Fujayrah | AE-FU | No flag (Needs Evidence of no Flag) | |
-| Imārat Ash Shāriqah | AE-SH | [1963 Stamp](https://upload.wikimedia.org/wikipedia/commons/0/03/Sharjah1963-65nosheikh.jpg) | <img src="./Flags/AE/AE-SH.svg" alt="Emirate" width="200"> |
-| Imārat Dubayy | AE-DU | [Dubai Museum](https://maps.app.goo.gl/Sv3gvhUw7BJ3HxRk7), [Front flag may be 3:5 instead of 1:2](https://maps.app.goo.gl/259qn6iPDgUmj7xt7). | <img src="./Flags/AE/AE-DU.svg" alt="Emirate" width="200"><br><img src="./Flags/AE/AE-DU_(2).svg" alt="Emirate" width="200"> |
-| Imārat Ra’s al-Khaymah | AE-RK | [Image of flag (Archive)](https://web.archive.org/web/20070314033218/https://www.emirates-islands.org.ae/images/PICS/18.JPG) | <img src="./Flags/AE/AE-RK.svg" alt="Emirate" width="200"> |
-| Imārat Umm al-Qaywayn | AE-UQ | Flag not clearly defined<br>[Old car license plates](https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguas_patentes_de_autos_de_Umm_al-Qaywayn%2C_de_la_%C3%A9poca_del_protectorado_brit%C3%A1nico.jpg), [Old passport](https://upload.wikimedia.org/wikipedia/commons/8/8e/Antiguo_pasaporte_del_emirato_de_Umm_al-Qaywayn%3B_%C3%A9poca_del_protectora_brit%C3%A1nico.jpg) | <img src="./Flags/AE/AE-UQ.svg" alt="Emirate" width="200"><br><img src="./Flags/AE/AE-UQ_(2).svg" alt="Emirate" width="200"><br><img src="./Flags/AE/AE-UQ_(3).svg" alt="Emirate" width="200"><br><img src="./Flags/AE/AE-UQ_(4).svg" alt="Emirate" width="200"><br><img src="./Flags/AE/AE-UQ_(5).svg" alt="Emirate" width="200"> |
+| Imārat Ash Shāriqah | AE-SH | [1963 Stamp](https://upload.wikimedia.org/wikipedia/commons/0/03/Sharjah1963-65nosheikh.jpg) | <img src="./Flags/AE/AE-SH.svg" alt="Imārat Ash Shāriqah" width="200"> |
+| Imārat Dubayy | AE-DU | [Dubai Museum](https://maps.app.goo.gl/Sv3gvhUw7BJ3HxRk7), [Front flag may be 3:5 instead of 1:2](https://maps.app.goo.gl/259qn6iPDgUmj7xt7). | <img src="./Flags/AE/AE-DU.svg" alt="Imārat Dubayy" width="200"><br><img src="./Flags/AE/AE-DU_(2).svg" alt="Imārat Dubayy (2)" width="200"> |
+| Imārat Ra’s al-Khaymah | AE-RK | [Image of flag (Archive)](https://web.archive.org/web/20070314033218/https://www.emirates-islands.org.ae/images/PICS/18.JPG) | <img src="./Flags/AE/AE-RK.svg" alt="Imārat Ra’s al-Khaymah" width="200"> |
+| Imārat Umm al-Qaywayn | AE-UQ | Flag not clearly defined<br>[Old car license plates](https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguas_patentes_de_autos_de_Umm_al-Qaywayn%2C_de_la_%C3%A9poca_del_protectorado_brit%C3%A1nico.jpg), [Old passport](https://upload.wikimedia.org/wikipedia/commons/8/8e/Antiguo_pasaporte_del_emirato_de_Umm_al-Qaywayn%3B_%C3%A9poca_del_protectora_brit%C3%A1nico.jpg) | <img src="./Flags/AE/AE-UQ.svg" alt="Imārat Umm al-Qaywayn" width="200"><br><img src="./Flags/AE/AE-UQ_(2).svg" alt="Imārat Umm al-Qaywayn (2)" width="200"><br><img src="./Flags/AE/AE-UQ_(3).svg" alt="Imārat Umm al-Qaywayn (3)" width="200"><br><img src="./Flags/AE/AE-UQ_(4).svg" alt="Imārat Umm al-Qaywayn (4)" width="200"><br><img src="./Flags/AE/AE-UQ_(5).svg" alt="Imārat Umm al-Qaywayn (5)" width="200"> |
 | Badakhshān Province | AF-BDS | No flag or Needs Evidence of a Flag | |
 | Bādghīs Province | AF-BDG | No flag or Needs Evidence of a Flag | |
 | Baghlān Province | AF-BGL | No flag or Needs Evidence of a Flag | |
@@ -353,5 +355,17 @@
 | AG-06 | Parish of Saint Paul | No flag or Needs Evidence of a Flag |
 | AG-07 | Parish of Saint Peter | No flag or Needs Evidence of a Flag |
 | AG-08 | Parish of Saint Philip | No flag or Needs Evidence of a Flag |
-| AG-10 | Barbuda | Barbuda Council flag not included, No flag or Needs Evidence of a Flag|
-| AG-11 | Redonda | Kingdom of Redonda flag not included, No flag or Needs Evidence of a Flag |
+| AG-10 | Barbuda | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
+| AG-11 | Redonda | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
+| AL-01 | Berat County | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br> Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| AL-02 | Durrës County | 
+| AL-03 | Elbasan County | 
+| AL-04 | Fier County | No flag or Needs Evidence of a Flag |
+| AL-05 | Gjirokastër County | No flag or Needs Evidence of a Flag |
+| AL-06 | Korçë County | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| AL-07 | Kukës County | 
+| AL-08 | Lezhë County | No flag or Needs Evidence of a Flag |
+| AL-09 | Dibër County | No flag or Needs Evidence of a Flag |
+| AL-10 | Shkodër County | No flag or Needs Evidence of a Flag |
+| AL-11 | Tiranë County | 
+| AL-12 | Vlorë County | 
