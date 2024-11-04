@@ -1,25 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
-<svg width="200" height="133.33333" viewBox="0 0 52.916665 35.277776" version="1.1" id="svg5" xml:space="preserve"
-	xmlns="http://www.w3.org/2000/svg">
-	<rect
-		style="display:inline;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:4.87792;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-		id="rect1038-6" width="52.916668" height="35.277691" x="0" y="0" />
-	<path id="path7980" style="fill:#f7f407;fill-rule:evenodd;stroke:#ffff00;stroke-width:0.31;stroke-miterlimit:0"
-		transform="matrix(1.0604254,0,0,1.0604254,-1.724899,-0.44052048)"
-		d="m 26.702094,4.0095511 1.34222,4.2662036 2.199537,-3.0250442 -0.54963,3.5700029 3.910527,-2.0762441 -2.146418,3.9339177 3.538815,-0.9316865 -2.642988,2.5348115 3.275974,1.030337 -4.172639,0.905583 3.508464,2.43345 -4.201567,-0.76015 2.310157,3.590845 -3.590845,-2.310157 0.760149,4.201567 -2.433449,-3.508464 -0.905584,4.172639 -0.905583,-4.172639 -2.433449,3.508464 0.76015,-4.201567 -3.590846,2.310157 2.310158,-3.590845 -4.201568,0.760149 3.508464,-2.433449 -4.172639,-0.905584 3.221394,-0.96796 -2.627392,-2.105971 3.562205,0.307919 -1.857925,-3.2789622 3.341338,1.483666 -0.767947,-4.0222343 2.643971,3.1108123 z" />
-	<rect
-		style="display:inline;fill:#0000fe;fill-opacity:1;fill-rule:evenodd;stroke-width:3.81758;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-		id="rect1038" width="52.916668" height="21.607622" x="0" y="13.670121" />
-	<rect
-		style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:3.00779;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0"
-		id="rect984" width="52.916668" height="13.959739" x="0" y="21.298958" />
-	<path id="path354"
-		style="fill:#fe0000;fill-rule:evenodd;stroke-width:2.91042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;fill-opacity:1"
-		d="M -3.6429291 6.7676086 L -3.6429291 36.576968 L 13.567638 36.576968 L -3.6429291 6.7676086 z "
-		transform="matrix(1.5373307,0,0,1.1834348,5.6003867,-8.0090235)" />
-	<path id="path354-1"
-		style="fill:#fe0000;fill-rule:evenodd;stroke-width:2.91042;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;fill-opacity:1"
-		d="M -3.6429282 6.7676086 L -20.853495 36.576968 L -3.6429282 36.576968 L -3.6429282 6.7676086 z "
-		transform="matrix(1.5373307,0,0,1.1834348,58.517052,-8.0090235)" />
+<svg width="200" height="133.333" viewBox="0 0 52.917 35.278" xmlns="http://www.w3.org/2000/svg">
+	<path fill-rule="evenodd" d="M0 0h52.917v35.278H0z" />
+	<path
+		d="M26.59 3.811l1.424 4.524 2.332-3.208-.582 3.786 4.146-2.202-2.276 4.172 3.753-.988-2.803 2.688 3.474 1.093-4.425.96 3.72 2.58-4.455-.806 2.45 3.808-3.808-2.45.806 4.456-2.58-3.72-.96 4.424-.96-4.425-2.581 3.72.806-4.455-3.808 2.45 2.45-3.808-4.456.806 3.72-2.58-4.424-.96 3.416-1.027-2.786-2.233 3.777.327-1.97-3.478 3.544 1.574-.815-4.266 2.804 3.3z"
+		fill="#f7f407" fill-rule="evenodd" stroke="#ff0" stroke-width=".3287333" stroke-miterlimit="0" />
+	<path fill="#0000fe" fill-rule="evenodd" d="M0 13.67h52.917v21.608H0z" />
+	<path fill="#fff" fill-rule="evenodd" d="M0 21.299h52.917v13.96H0z" />
+	<path d="M0 0v35.277h26.458L0 0zM52.917 0L26.458 35.277h26.459V0z" fill="#fe0000" fill-rule="evenodd" />
 </svg>

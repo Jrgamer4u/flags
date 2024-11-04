@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xml>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="6" height="3">
-	<path d="m0,0h6v3H0" />
-	<path d="m0,0h6v2H0" fill="#fff" />
-	<path d="m0,0h6v1H0" fill="#00732f" />
-	<path d="m0,0h1.5v3H0" fill="#f00" />
+<svg xmlns="http://www.w3.org/2000/svg" width="6" height="3">
+	<path d="M0 0h6v3H0" />
+	<path d="M0 0h6v2H0" fill="#fff" />
+	<path d="M0 0h6v1H0" fill="#00732f" />
+	<path d="M0 0h1.5v3H0" fill="red" />
 </svg>
