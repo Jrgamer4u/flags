@@ -4,7 +4,9 @@
 	xmlns="http://www.w3.org/2000/svg">
 	<defs id="defs2" />
 	<g id="layer1">
-		<rect style="fill:#a20012;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258551" id="rect234" width="440.9722" height="264.58334" x="-1.110223e-16" y="0" />
-		<rect style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.163523" id="rect234-1" width="176.38889" height="264.58334" x="0" y="0" />
+		<rect style="fill:#a20012;fill-opacity:1;fill-rule:evenodd;stroke-width:0.258551" id="rect234" width="440.9722"
+			height="264.58334" x="-1.110223e-16" y="0" />
+		<rect style="fill:#ffffff;fill-rule:evenodd;stroke-width:0.163523" id="rect234-1" width="176.38889"
+			height="264.58334" x="0" y="0" />
 	</g>
 </svg>

@@ -357,12 +357,12 @@
 | AG-08 | Parish of Saint Philip | No flag or Needs Evidence of a Flag |
 | AG-10 | Barbuda | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
 | AG-11 | Redonda | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
-| AL-01 | Berat County | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br> Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| AL-01 | Berat County | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br> Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat County" width="200"> |
 | AL-02 | Durrës County | 
 | AL-03 | Elbasan County | 
 | AL-04 | Fier County | No flag or Needs Evidence of a Flag |
 | AL-05 | Gjirokastër County | No flag or Needs Evidence of a Flag |
-| AL-06 | Korçë County | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| AL-06 | Korçë County | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë County" width="200"> |
 | AL-07 | Kukës County | 
 | AL-08 | Lezhë County | No flag or Needs Evidence of a Flag |
 | AL-09 | Dibër County | No flag or Needs Evidence of a Flag |
