@@ -2,8 +2,8 @@
 
 ## Officially Assigned
 
-| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
+| - | - | - | - |
 | the Principality of Andorra | AD | [Normes Gràfiques](https://www.ompa.ad/images/PDF/normativa-signes/Normes_Grafiques.pdf) | State:<br><img src="./Flags/AD/AD.svg" alt="Andorra State Flag" width="200"><br>No Civil Flag
 | the United Arab Emirates | AE | [Protocals / The United Arab Emirates Flag](https://www.protocol.dubai.ae/ar/protocols-listing/protocols/the-united-arab-emirates-flag/) | National:<br><img src="./Flags/AE/AE.svg" alt="United Arab Emirates National" width="200">
 | the Islamic Emirate of Afghanistan Province | AF (De facto) | [(Archive)](https://web.archive.org/web/20221229074727/https://www.alemarah.af/Afghanistan-Flag.png) | National:<br><img src="./Flags/AF/AF_De_facto.svg" alt="Islamic Emirate of Afghanistan National" width="200"> |
@@ -257,8 +257,8 @@
 
 ## Exceptional Reserved
 
-| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
+| - | - | - | - |
 | Ascension Island | AC |
 | Clipperton Island | CP |
 | Sark | CQ |
@@ -275,21 +275,21 @@
 
 ## Commonly Assigned
 
-| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
+| - | - | - | - |
 | the Republic of Kosovo | XK |
 
 ## User Assigned
 
-| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
+| - | - | - | - |
 | the Republic of Abkhazia | XA (Used by Russia) |
 | the Republic of South Ossetia | XO (Used by Russia) |
 
 ## No Code
 
-| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil) | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
+| - | - | - | - |
 | the Turkish Republic of Northern Cyprus | (CT.TR, used by Turkey) |
 | the Republic of Somaliland | |
 | the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta | |
@@ -299,8 +299,8 @@
 
 ## Officially Assigned
 
-| Subdivision | ISO 3166-2 | Flag Graphical Rules | Flag | Apple | Google | Samsung | Other (if needed) |
-| - | - | - | - | - | - | - | - |
+| Country | ISO 3166-1 alpha-2 | Flag Exists? | Flag (National, State and Civil)
+| - | - | - | - |
 | Comú de Canillo | AD-02 | No flag or Needs Evidence of a Flag | |
 | Comú d'Encamp | AD-03 | No flag or Needs Evidence of a Flag | |
 | Comú de La Massana | AD-04 | No flag or Needs Evidence of a Flag | |
@@ -349,23 +349,23 @@
 | Uruzgān Province | AF-URU | No flag or Needs Evidence of a Flag | |
 | Wardak Province | AF-WAR | No flag or Needs Evidence of a Flag | |
 | Zābul Province | AF-ZAB | No flag or Needs Evidence of a Flag | |
-| AG-03 | Parish of Saint George | No flag or Needs Evidence of a Flag |
-| AG-04 | Parish of Saint John | No flag or Needs Evidence of a Flag |
-| AG-05 | Parish of Saint Mary | No flag or Needs Evidence of a Flag |
-| AG-06 | Parish of Saint Paul | No flag or Needs Evidence of a Flag |
-| AG-07 | Parish of Saint Peter | No flag or Needs Evidence of a Flag |
-| AG-08 | Parish of Saint Philip | No flag or Needs Evidence of a Flag |
-| AG-10 | Barbuda | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
-| AG-11 | Redonda | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
-| AL-01 | Berat County | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br> Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-01.svg" alt="Berat County" width="200"> |
-| AL-02 | Durrës County | 
-| AL-03 | Elbasan County | 
-| AL-04 | Fier County | No flag or Needs Evidence of a Flag |
-| AL-05 | Gjirokastër County | No flag or Needs Evidence of a Flag |
-| AL-06 | Korçë County | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratio & Coat of Arms to Flag ratio used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë County" width="200"> |
-| AL-07 | Kukës County | 
-| AL-08 | Lezhë County | No flag or Needs Evidence of a Flag |
-| AL-09 | Dibër County | No flag or Needs Evidence of a Flag |
-| AL-10 | Shkodër County | No flag or Needs Evidence of a Flag |
-| AL-11 | Tiranë County | 
-| AL-12 | Vlorë County | 
+| Parish of Saint George | AG-03 | No flag or Needs Evidence of a Flag |
+| Parish of Saint John | AG-04 | No flag or Needs Evidence of a Flag |
+| Parish of Saint Mary | AG-05 | No flag or Needs Evidence of a Flag |
+| Parish of Saint Paul | AG-06 | No flag or Needs Evidence of a Flag |
+| Parish of Saint Peter | AG-07 | No flag or Needs Evidence of a Flag |
+| Parish of Saint Philip | AG-08 | No flag or Needs Evidence of a Flag |
+| Barbuda | AG-10 | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
+| Redonda | AG-11 | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
+| Berat County | AL-01 | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-01.svg" alt="Berat County" width="200"> |
+| Durrës County | AL-02 | [Photo of Flag](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-02.svg" alt="Durrës County" width="200"> |
+| Elbasan County | AL-03 | No flag or Needs Evidence of a Flag |
+| Fier County | AL-04 | No flag or Needs Evidence of a Flag |
+| Gjirokastër County | AL-05 | [CRW's Source](https://www.crwflags.com/fotw/images/a/al-gj.jpg) seems to have different emblem, too different from normal emblem to replicate. |
+| Korçë County | AL-06 | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë County" width="200"> |
+| Kukës County | AL-07 | [Photo of Flag](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-07.svg" alt="Kukës County" width="200"> |
+| Lezhë County | AL-08 | No flag or Needs Evidence of a Flag |
+| Dibër County | AL-09 | No flag or Needs Evidence of a Flag |
+| Shkodër County | AL-10 | No flag or Needs Evidence of a Flag |
+| Tiranë County | AL-11 | [Photo of Flag](http://1.bp.blogspot.com/-X6wNelyy_jw/UK_QNXnzBNI/AAAAAAAAAp0/JS0mYc-30v8/s1600/IMG_1453.JPG)<br>Albanian Flag ratios used.<br>Someone replace the Tiranë Emblem's crown with Berat's crown and add the correct colors plz | <img src="./Flags/AL/AL-11.svg" alt="Tiranë County" width="200"> |
+| Vlorë County | AL-12 | [Photo of Flag](https://i.ytimg.com/vi/AM1i8rWXcXc/maxresdefault.jpg) | <img src="./Flags/AL/AL-12.svg" alt="Vlorë County" width="200"> |
