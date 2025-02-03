@@ -6,12 +6,12 @@
 | - | - | - | - |
 | the Principality of Andorra | AD | [Normes Gràfiques](https://www.ompa.ad/images/PDF/normativa-signes/Normes_Grafiques.pdf) | State:<br><img src="./Flags/AD/AD.svg" alt="Andorra State Flag" width="200"><br>No Civil Flag
 | the United Arab Emirates | AE | [Protocals / The United Arab Emirates Flag](https://www.protocol.dubai.ae/ar/protocols-listing/protocols/the-united-arab-emirates-flag/) | National:<br><img src="./Flags/AE/AE.svg" alt="United Arab Emirates National" width="200">
-| the Islamic Emirate of Afghanistan Province | AF (De facto) | [(Archive)](https://web.archive.org/web/20221229074727/https://www.alemarah.af/Afghanistan-Flag.png) | National:<br><img src="./Flags/AF/AF_De_facto.svg" alt="Islamic Emirate of Afghanistan National" width="200"> |
-| the Islamic Republic of Afghanistan Province | AF (De jure) | [Flag of Afghanistan \| Protocol (Archive)](https://web.archive.org/web/20210814090748/https://www.mfa.gov.af/protocol/flag-of-afghanistan.html) | National:<br><img src="./Flags/AF/AF_De_jure.svg" alt="Islamic Republic of Afghanistan National" width="200"><br><img src="./Flags/AF/AF_De_jure_(2).svg" alt="Islamic Republic of Afghanistan National 2" width="200">
+| the Islamic Emirate of Afghanistan | AF (De facto) | [(Archive)](https://web.archive.org/web/20221229074727/https://www.alemarah.af/Afghanistan-Flag.png) | National:<br><img src="./Flags/AF/AF_De_facto.svg" alt="Islamic Emirate of Afghanistan National" width="200"> |
+| the Islamic Republic of Afghanistan | AF (De jure) | [Flag of Afghanistan \| Protocol (Archive)](https://web.archive.org/web/20210814090748/https://www.mfa.gov.af/protocol/flag-of-afghanistan.html) | National:<br><img src="./Flags/AF/AF_De_jure.svg" alt="Islamic Republic of Afghanistan National" width="200"><br><img src="./Flags/AF/AF_De_jure_(2).svg" alt="Islamic Republic of Afghanistan National 2" width="200">
 | Antigua and Barbuda | AG | Flag not clearly defined<br>[Our National Symbols](https://ab.gov.ag/detail_page.php?page=27)<br>[The Museum of Antigua and Barbuda's Facebook photo of the first sewn Antigua and Barbuda flag](https://www.facebook.com/ABMuseum/photos/a.10150414631098032/10162160607288032/?_rdr)<br>[Local Antigua Website](https://antiguanice.com/client.php?id=461&cat=38)| National:<br><img src="./Flags/AG/AG.svg" alt="Antigua and Barbuda National" width="200"><br><img src="./Flags/AG/AG_(2).svg" alt="Antigua and Barbuda National 2" width="200"><br><img src="./Flags/AG/AG_(3).svg" alt="Antigua and Barbuda National 3" width="200">
 | Anguilla | AI | UK flag not clearly defined.<br>Text says the seal on the flag has dolphins but Images show that the seal on the flag has fish.<br>[Former Anguilla Government Website (Archive)](https://web.archive.org/web/20210415110050/http://www.gov.ai/flags.php) | National:<br><img src="./Flags/AI/AI.svg" alt="Anguilla National" width="200"><br><img src="./Flags/AI/AI_(2).svg" alt="Anguilla National 2" width="200">
 | the Republic of Albania | AL | [Law #8926, 22.07.2002](https://upload.wikimedia.org/wikipedia/commons/d/d6/Ligji_8926_22.07.2002.pdf) | National:<br><img src="./Flags/AL/AL.svg" alt="Albania National" width="200"> |
-| the Republic of Armenia | AM |
+| the Republic of Armenia | AM | [ՀՍՏ 50-2012 ՀԱՅԱՍՏԱՆԻ ԱԶԳԱՅԻՆ ՍՏԱՆԴԱՐՏ](http://yeraguyn.com/wp-content/uploads/2010/04/HST-50-2012.pdf) | National:<br><img src="./Flags/AM/AM.svg" alt="Armenia National" width="200">
 | the Republic of Angola | AO |
 | Antarctica | AQ |
 | the Argentine Republic | AR |
@@ -301,71 +301,82 @@
 
 | Country | ISO 3166-1 alpha-2 | Flag Exists? | Flag (National, State and Civil)
 | - | - | - | - |
-| Comú de Canillo | AD-02 | No flag or Needs Evidence of a Flag | |
-| Comú d'Encamp | AD-03 | No flag or Needs Evidence of a Flag | |
-| Comú de La Massana | AD-04 | No flag or Needs Evidence of a Flag | |
-| Comú d'Ordino | AD-05 | No flag or Needs Evidence of a Flag | |
-| Comú de Sant Julià de Lòria | AD-06 | No flag or Needs Evidence of a Flag | |
-| Comú d'Andorra la Vella | AD-07 | No flag or Needs Evidence of a Flag | |
-| Comú Escaldes-Engordany | AD-08 | No flag or Needs Evidence of a Flag | |
-| Imārat ‘Ajmān | AE-AJ | [Coat of Arms on the Ajman Museum](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Ajman_National_Museum_%28Emirate_of_Ajman_UAE%29_-_panoramio.jpg) | <img src="./Flags/AE/AE-AJ.svg" alt="Imārat ‘Ajmān" width="200"> |
-| Imārat Abū Z̧aby | AE-AZ | [1969 Stamp](https://upload.wikimedia.org/wikipedia/commons/e/e9/Stamp_of_Abu_Dhabi_-_1969_-_Colnect_625777_-_1_-_National_Flag_-_Surcharged.jpeg) | <img src="./Flags/AE/AE-AZ.svg" alt="Imārat Abū Z̧aby" width="200"> |
-| Imārat al-Fujayrah | AE-FU | No flag (Needs Evidence of no Flag) | |
-| Imārat Ash Shāriqah | AE-SH | [1963 Stamp](https://upload.wikimedia.org/wikipedia/commons/0/03/Sharjah1963-65nosheikh.jpg) | <img src="./Flags/AE/AE-SH.svg" alt="Imārat Ash Shāriqah" width="200"> |
-| Imārat Dubayy | AE-DU | [Dubai Museum](https://maps.app.goo.gl/Sv3gvhUw7BJ3HxRk7), [Front flag may be 3:5 instead of 1:2](https://maps.app.goo.gl/259qn6iPDgUmj7xt7). | <img src="./Flags/AE/AE-DU.svg" alt="Imārat Dubayy" width="200"><br><img src="./Flags/AE/AE-DU_(2).svg" alt="Imārat Dubayy (2)" width="200"> |
-| Imārat Ra’s al-Khaymah | AE-RK | [Image of flag (Archive)](https://web.archive.org/web/20070314033218/https://www.emirates-islands.org.ae/images/PICS/18.JPG) | <img src="./Flags/AE/AE-RK.svg" alt="Imārat Ra’s al-Khaymah" width="200"> |
-| Imārat Umm al-Qaywayn | AE-UQ | Flag not clearly defined<br>[Old car license plates](https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguas_patentes_de_autos_de_Umm_al-Qaywayn%2C_de_la_%C3%A9poca_del_protectorado_brit%C3%A1nico.jpg), [Old passport](https://upload.wikimedia.org/wikipedia/commons/8/8e/Antiguo_pasaporte_del_emirato_de_Umm_al-Qaywayn%3B_%C3%A9poca_del_protectora_brit%C3%A1nico.jpg) | <img src="./Flags/AE/AE-UQ.svg" alt="Imārat Umm al-Qaywayn" width="200"><br><img src="./Flags/AE/AE-UQ_(2).svg" alt="Imārat Umm al-Qaywayn (2)" width="200"><br><img src="./Flags/AE/AE-UQ_(3).svg" alt="Imārat Umm al-Qaywayn (3)" width="200"><br><img src="./Flags/AE/AE-UQ_(4).svg" alt="Imārat Umm al-Qaywayn (4)" width="200"><br><img src="./Flags/AE/AE-UQ_(5).svg" alt="Imārat Umm al-Qaywayn (5)" width="200"> |
-| Badakhshān Province | AF-BDS | No flag or Needs Evidence of a Flag | |
-| Bādghīs Province | AF-BDG | No flag or Needs Evidence of a Flag | |
-| Baghlān Province | AF-BGL | No flag or Needs Evidence of a Flag | |
-| Balkh Province | AF-BAL | No flag or Needs Evidence of a Flag | |
-| Bāmyān Province | AF-BAM | No flag or Needs Evidence of a Flag | |
-| Dāykundī Province | AF-DAY | No flag or Needs Evidence of a Flag | |
-| Farāh Province | AF-FRA | No flag or Needs Evidence of a Flag | |
-| Fāryāb Province | AF-FYB | No flag or Needs Evidence of a Flag | |
-| Ghaznī Province | AF-GHA | No flag or Needs Evidence of a Flag | |
-| Ghōr Province | AF-GHO | No flag or Needs Evidence of a Flag | |
-| Helmand Province | AF-HEL | No flag or Needs Evidence of a Flag | |
-| Herāt Province | AF-HER | No flag or Needs Evidence of a Flag | |
-| Jowzjān Province | AF-JOW | No flag or Needs Evidence of a Flag | |
-| Kābul Province | AF-KAB | No flag or Needs Evidence of a Flag | |
-| Kandahār Province | AF-KAN | No flag or Needs Evidence of a Flag | |
-| Kāpīsā Province | AF-KAP | No flag or Needs Evidence of a Flag | |
-| Khōst Province | AF-KHO | No flag or Needs Evidence of a Flag | |
-| Kunaṟ Province | AF-KNR | No flag or Needs Evidence of a Flag | |
-| Kunduz Province | AF-KDZ | No flag or Needs Evidence of a Flag | |
-| Laghmān Province | AF-LAG | No flag or Needs Evidence of a Flag | |
-| Lōgar Province | AF-LOG | No flag or Needs Evidence of a Flag | |
-| Nangarhār Province | AF-NAN | No flag or Needs Evidence of a Flag | |
-| Nīmrōz Province | AF-NIM | No flag or Needs Evidence of a Flag | |
-| Nūristān Province | AF-NUR | No flag or Needs Evidence of a Flag | |
-| Paktīkā Province | AF-PKA | No flag or Needs Evidence of a Flag | |
-| Paktiyā Province | AF-PIA | No flag or Needs Evidence of a Flag | |
-| Panjshayr Province | AF-PAN | No flag or Needs Evidence of a Flag | |
-| Parwān Province | AF-PAR | No flag or Needs Evidence of a Flag | |
-| Samangān Province | AF-SAM | No flag or Needs Evidence of a Flag | |
-| Sar-e Pul Province | AF-SAR | No flag or Needs Evidence of a Flag | |
-| Takhār Province | AF-TAK | No flag or Needs Evidence of a Flag | |
-| Uruzgān Province | AF-URU | No flag or Needs Evidence of a Flag | |
-| Wardak Province | AF-WAR | No flag or Needs Evidence of a Flag | |
-| Zābul Province | AF-ZAB | No flag or Needs Evidence of a Flag | |
-| Parish of Saint George | AG-03 | No flag or Needs Evidence of a Flag |
-| Parish of Saint John | AG-04 | No flag or Needs Evidence of a Flag |
-| Parish of Saint Mary | AG-05 | No flag or Needs Evidence of a Flag |
-| Parish of Saint Paul | AG-06 | No flag or Needs Evidence of a Flag |
-| Parish of Saint Peter | AG-07 | No flag or Needs Evidence of a Flag |
-| Parish of Saint Philip | AG-08 | No flag or Needs Evidence of a Flag |
+| Canillo | AD-02 | No flag or Needs Evidence of a Flag | |
+| Encamp | AD-03 | No flag or Needs Evidence of a Flag | |
+| La Massana | AD-04 | No flag or Needs Evidence of a Flag | |
+| Ordino | AD-05 | No flag or Needs Evidence of a Flag | |
+| Sant Julià de Lòria | AD-06 | No flag or Needs Evidence of a Flag | |
+| Andorra la Vella | AD-07 | No flag or Needs Evidence of a Flag | |
+| Escaldes-Engordany | AD-08 | No flag or Needs Evidence of a Flag | |
+| ‘Ajmān | AE-AJ | [Coat of Arms on the Ajman Museum](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Ajman_National_Museum_%28Emirate_of_Ajman_UAE%29_-_panoramio.jpg) | <img src="./Flags/AE/AE-AJ.svg" alt="‘Ajmān" width="200"> |
+| Abū Z̧aby | AE-AZ | [1969 Stamp](https://upload.wikimedia.org/wikipedia/commons/e/e9/Stamp_of_Abu_Dhabi_-_1969_-_Colnect_625777_-_1_-_National_Flag_-_Surcharged.jpeg) | <img src="./Flags/AE/AE-AZ.svg" alt="Abū Z̧aby" width="200"> |
+| al-Fujayrah | AE-FU | No flag (Needs Evidence of no Flag) | |
+| Ash Shāriqah | AE-SH | [1963 Stamp](https://upload.wikimedia.org/wikipedia/commons/0/03/Sharjah1963-65nosheikh.jpg) | <img src="./Flags/AE/AE-SH.svg" alt="Ash Shāriqah" width="200"> |
+| Dubayy | AE-DU | [Dubai Museum](https://maps.app.goo.gl/Sv3gvhUw7BJ3HxRk7), [Front flag may be 3:5 instead of 1:2](https://maps.app.goo.gl/259qn6iPDgUmj7xt7). | <img src="./Flags/AE/AE-DU.svg" alt="Dubayy" width="200"><br><img src="./Flags/AE/AE-DU_(2).svg" alt="Dubayy (2)" width="200"> |
+| Ra’s al-Khaymah | AE-RK | [Image of flag (Archive)](https://web.archive.org/web/20070314033218/https://www.emirates-islands.org.ae/images/PICS/18.JPG) | <img src="./Flags/AE/AE-RK.svg" alt="Ra’s al-Khaymah" width="200"> |
+| Umm al-Qaywayn | AE-UQ | Flag not clearly defined<br>[Old car license plates](https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguas_patentes_de_autos_de_Umm_al-Qaywayn%2C_de_la_%C3%A9poca_del_protectorado_brit%C3%A1nico.jpg), [Old passport](https://upload.wikimedia.org/wikipedia/commons/8/8e/Antiguo_pasaporte_del_emirato_de_Umm_al-Qaywayn%3B_%C3%A9poca_del_protectora_brit%C3%A1nico.jpg) | <img src="./Flags/AE/AE-UQ.svg" alt="Umm al-Qaywayn" width="200"><br><img src="./Flags/AE/AE-UQ_(2).svg" alt="Umm al-Qaywayn (2)" width="200"><br><img src="./Flags/AE/AE-UQ_(3).svg" alt="Umm al-Qaywayn (3)" width="200"><br><img src="./Flags/AE/AE-UQ_(4).svg" alt="Umm al-Qaywayn (4)" width="200"><br><img src="./Flags/AE/AE-UQ_(5).svg" alt="Umm al-Qaywayn (5)" width="200"> |
+| Badakhshān | AF-BDS | No flag or Needs Evidence of a Flag | |
+| Bādghīs | AF-BDG | No flag or Needs Evidence of a Flag | |
+| Baghlān | AF-BGL | No flag or Needs Evidence of a Flag | |
+| Balkh | AF-BAL | No flag or Needs Evidence of a Flag | |
+| Bāmyān | AF-BAM | No flag or Needs Evidence of a Flag | |
+| Dāykundī | AF-DAY | No flag or Needs Evidence of a Flag | |
+| Farāh | AF-FRA | No flag or Needs Evidence of a Flag | |
+| Fāryāb | AF-FYB | No flag or Needs Evidence of a Flag | |
+| Ghaznī | AF-GHA | No flag or Needs Evidence of a Flag | |
+| Ghōr | AF-GHO | No flag or Needs Evidence of a Flag | |
+| Helmand | AF-HEL | No flag or Needs Evidence of a Flag | |
+| Herāt | AF-HER | No flag or Needs Evidence of a Flag | |
+| Jowzjān | AF-JOW | No flag or Needs Evidence of a Flag | |
+| Kābul | AF-KAB | No flag or Needs Evidence of a Flag | |
+| Kandahār | AF-KAN | No flag or Needs Evidence of a Flag | |
+| Kāpīsā | AF-KAP | No flag or Needs Evidence of a Flag | |
+| Khōst | AF-KHO | No flag or Needs Evidence of a Flag | |
+| Kunaṟ | AF-KNR | No flag or Needs Evidence of a Flag | |
+| Kunduz | AF-KDZ | No flag or Needs Evidence of a Flag | |
+| Laghmān | AF-LAG | No flag or Needs Evidence of a Flag | |
+| Lōgar | AF-LOG | No flag or Needs Evidence of a Flag | |
+| Nangarhār | AF-NAN | No flag or Needs Evidence of a Flag | |
+| Nīmrōz | AF-NIM | No flag or Needs Evidence of a Flag | |
+| Nūristān | AF-NUR | No flag or Needs Evidence of a Flag | |
+| Paktīkā | AF-PKA | No flag or Needs Evidence of a Flag | |
+| Paktiyā | AF-PIA | No flag or Needs Evidence of a Flag | |
+| Panjshayr | AF-PAN | No flag or Needs Evidence of a Flag | |
+| Parwān | AF-PAR | No flag or Needs Evidence of a Flag | |
+| Samangān | AF-SAM | No flag or Needs Evidence of a Flag | |
+| Sar-e Pul | AF-SAR | No flag or Needs Evidence of a Flag | |
+| Takhār | AF-TAK | No flag or Needs Evidence of a Flag | |
+| Uruzgān | AF-URU | No flag or Needs Evidence of a Flag | |
+| Wardak | AF-WAR | No flag or Needs Evidence of a Flag | |
+| Zābul | AF-ZAB | No flag or Needs Evidence of a Flag | |
+| Saint George | AG-03 | No flag or Needs Evidence of a Flag |
+| Saint John | AG-04 | No flag or Needs Evidence of a Flag |
+| Saint Mary | AG-05 | No flag or Needs Evidence of a Flag |
+| Saint Paul | AG-06 | No flag or Needs Evidence of a Flag |
+| Saint Peter | AG-07 | No flag or Needs Evidence of a Flag |
+| Saint Philip | AG-08 | No flag or Needs Evidence of a Flag |
 | Barbuda | AG-10 | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
 | Redonda | AG-11 | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
-| Berat County | AL-01 | "The flag of Berat County, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-01.svg" alt="Berat County" width="200"> |
-| Durrës County | AL-02 | [Photo of Flag](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-02.svg" alt="Durrës County" width="200"> |
-| Elbasan County | AL-03 | No flag or Needs Evidence of a Flag |
-| Fier County | AL-04 | No flag or Needs Evidence of a Flag |
-| Gjirokastër County | AL-05 | [CRW's Source](https://www.crwflags.com/fotw/images/a/al-gj.jpg) seems to have different emblem, too different from normal emblem to replicate. |
-| Korçë County | AL-06 | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë County" width="200"> |
-| Kukës County | AL-07 | [Photo of Flag](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-07.svg" alt="Kukës County" width="200"> |
-| Lezhë County | AL-08 | No flag or Needs Evidence of a Flag |
-| Dibër County | AL-09 | No flag or Needs Evidence of a Flag |
-| Shkodër County | AL-10 | No flag or Needs Evidence of a Flag |
-| Tiranë County | AL-11 | [Photo of Flag](http://1.bp.blogspot.com/-X6wNelyy_jw/UK_QNXnzBNI/AAAAAAAAAp0/JS0mYc-30v8/s1600/IMG_1453.JPG)<br>Albanian Flag ratios used.<br>Someone replace the Tiranë Emblem's crown with Berat's crown and add the correct colors plz | <img src="./Flags/AL/AL-11.svg" alt="Tiranë County" width="200"> |
-| Vlorë County | AL-12 | [Photo of Flag](https://i.ytimg.com/vi/AM1i8rWXcXc/maxresdefault.jpg) | <img src="./Flags/AL/AL-12.svg" alt="Vlorë County" width="200"> |
+| Berat | AL-01 | "The flag of Berat, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| Durrës | AL-02 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-02.svg" alt="Durrës" width="200"> |
+| Elbasan | AL-03 | No flag or Needs Evidence of a Flag |
+| Fier | AL-04 | No flag or Needs Evidence of a Flag |
+| Gjirokastër | AL-05 | [CRW's Source](https://www.crwflags.com/fotw/images/a/al-gj.jpg) seems to have different emblem, too different from normal emblem to replicate. |
+| Korçë | AL-06 | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë" width="200"> |
+| Kukës | AL-07 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-07.svg" alt="Kukës" width="200"> |
+| Lezhë | AL-08 | No flag or Needs Evidence of a Flag |
+| Dibër | AL-09 | No flag or Needs Evidence of a Flag |
+| Shkodër | AL-10 | No flag or Needs Evidence of a Flag |
+| Tiranë | AL-11 | [Photo of Flag](http://1.bp.blogspot.com/-X6wNelyy_jw/UK_QNXnzBNI/AAAAAAAAAp0/JS0mYc-30v8/s1600/IMG_1453.JPG)<br>Albanian Flag ratios used.<br>Someone replace the Tiranë Emblem's crown with Berat's crown and add the correct colors plz | <img src="./Flags/AL/AL-11.svg" alt="Tiranë" width="200"> |
+| Vlorë | AL-12 | [Photo of Flag](https://i.ytimg.com/vi/AM1i8rWXcXc/maxresdefault.jpg) | <img src="./Flags/AL/AL-12.svg" alt="Vlorë" width="200"> |
+| Aragac̣otn | AM-AG | No flag or Needs Evidence of a Flag |
+| Ararat | AM-AR | No flag or Needs Evidence of a Flag |
+| Armavir | AM-AV | No flag or Needs Evidence of a Flag |
+| Erevan | AM-ER | [Flag (Archive)](https://web.archive.org/web/20111002075052/http://www.yerevan.am/main.php?lang=1&page_id=114) | <img src="./Flags/AM/AM-ER.svg" alt="Erevan" width="200"> |
+| Geġark'unik' | AM-GR | No flag or Needs Evidence of a Flag |
+| Kotayk' | AM-KT | No flag or Needs Evidence of a Flag |
+| Loṙi | AM-LO | No flag or Needs Evidence of a Flag |
+| Širak | AM-SH | No flag or Needs Evidence of a Flag |
+| Syunik' | AM-SU | No flag or Needs Evidence of a Flag |
+| Tavuš | AM-TV | No flag or Needs Evidence of a Flag |
+| Vayoć Jor | AM-VD | No flag or Needs Evidence of a Flag |
