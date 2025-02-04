@@ -1,7 +1,5 @@
-<svg width="700" height="500" version="1.1" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink">
-    <rect width="700" height="500" fill="#77abd1" />
-
+<svg width="700" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path fill="#77abd1" d="M0 0h700v500H0z" />
     <image x="233.33" y="97.092" width="233.33" height="305.82" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAAE0CAYAAADNFcSbAACAAElEQVR42uy9eZxkZ13v/36es9Ze
 1Xv3TM9MMjPJJIQlYd83AwKiKMoqXhWv1+tyFRFUEBREvS6IegE3fsAVEAQUFPCyyBYRiIRAttn3
 6WV6r73qbM/z++Ocqq7q7pn0JCAzST159cyk+pxT5zzn+T7f7fP9fAWD8T0ZQggxPT1dchxnSEo5
