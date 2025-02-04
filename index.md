@@ -357,16 +357,16 @@
 | Saint Philip | AG-08 | No flag or Needs Evidence of a Flag |
 | Barbuda | AG-10 | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
 | Redonda | AG-11 | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
-| Berat | AL-01 | "The flag of Berat, as confirmed by the county administration, is white with the county's coat of arms." ??????????<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
+| Berat | AL-01 | Needs Evidence of a Flag, Image based on description only. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
 | Durrës | AL-02 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-02.svg" alt="Durrës" width="200"> |
 | Elbasan | AL-03 | No flag or Needs Evidence of a Flag |
 | Fier | AL-04 | No flag or Needs Evidence of a Flag |
-| Gjirokastër | AL-05 | [CRW's Source](https://www.crwflags.com/fotw/images/a/al-gj.jpg) seems to have different emblem, too different from normal emblem to replicate. |
+| Gjirokastër | AL-05 | [Photo of Flag](https://www.crwflags.com/fotw/images/a/al-gj.jpg) | <img src="./Flags/AL/AL-05.svg" alt="Korçë" width="200"> |
 | Korçë | AL-06 | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë" width="200"> |
 | Kukës | AL-07 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-07.svg" alt="Kukës" width="200"> |
-| Lezhë | AL-08 | No flag or Needs Evidence of a Flag |
-| Dibër | AL-09 | No flag or Needs Evidence of a Flag |
-| Shkodër | AL-10 | No flag or Needs Evidence of a Flag |
+| Lezhë | AL-08 | [Official Facebook Account](https://www.facebook.com/photo/?fbid=2003128826488535&set=pcb.2003129549821796)<br>Emblem has changed since the photo has taken and thus uses the updated one. Flag may be different. | <img src="./Flags/AL/AL-08.svg" alt="Kukës" width="200"> |
+| Dibër | AL-09 | [Photo of Flag](https://qarkudiber.gov.al/sot-me-date-27-12-2024-ne-ambientet-e-keshillit-te-qarkut-u-zhvillua-mbledhja-e-keshillit/)<br>Uses png image. | <img src="./Flags/AL/AL-09.svg" alt="Kukës" width="200"> |
+| Shkodër | AL-10 | [Photo of Flag](https://qarkushkoder.gov.al/31-12-2024/) | <img src="./Flags/AL/AL-10.svg" alt="Shkodër" width="200"> |
 | Tiranë | AL-11 | [Photo of Flag](http://1.bp.blogspot.com/-X6wNelyy_jw/UK_QNXnzBNI/AAAAAAAAAp0/JS0mYc-30v8/s1600/IMG_1453.JPG)<br>Albanian Flag ratios used.<br>Someone replace the Tiranë Emblem's crown with Berat's crown and add the correct colors plz | <img src="./Flags/AL/AL-11.svg" alt="Tiranë" width="200"> |
 | Vlorë | AL-12 | [Photo of Flag](https://i.ytimg.com/vi/AM1i8rWXcXc/maxresdefault.jpg) | <img src="./Flags/AL/AL-12.svg" alt="Vlorë" width="200"> |
 | Aragac̣otn | AM-AG | No flag or Needs Evidence of a Flag |
