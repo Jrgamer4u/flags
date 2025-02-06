@@ -4,7 +4,7 @@
 
 | Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
 | - | - | - | - |
-| the Principality of Andorra | AD | [Normes Gràfiques](https://www.ompa.ad/images/PDF/normativa-signes/Normes_Grafiques.pdf) | State:<br><img src="./Flags/AD/AD.svg" alt="Andorra State Flag" width="200"><br>No Civil Flag
+| the Principality of Andorra | AD | [Normes Gràfiques (archive)](https://web.archive.org/web/20240819141156/https://www.ompa.ad/images/PDF/normativa-signes/Normes_Grafiques.pdf) | State:<br><img src="./Flags/AD/AD.svg" alt="Andorra State Flag" width="200"><br>No Civil Flag
 | the United Arab Emirates | AE | [Protocals / The United Arab Emirates Flag](https://www.protocol.dubai.ae/ar/protocols-listing/protocols/the-united-arab-emirates-flag/) | National:<br><img src="./Flags/AE/AE.svg" alt="United Arab Emirates National" width="200">
 | the Islamic Emirate of Afghanistan | AF (De facto) | [(Archive)](https://web.archive.org/web/20221229074727/https://www.alemarah.af/Afghanistan-Flag.png) | National:<br><img src="./Flags/AF/AF_De_facto.svg" alt="Islamic Emirate of Afghanistan National" width="200"> |
 | the Islamic Republic of Afghanistan | AF (De jure) | [Flag of Afghanistan \| Protocol (Archive)](https://web.archive.org/web/20210814090748/https://www.mfa.gov.af/protocol/flag-of-afghanistan.html) | National:<br><img src="./Flags/AF/AF_De_jure.svg" alt="Islamic Republic of Afghanistan National" width="200"><br><img src="./Flags/AF/AF_De_jure_(2).svg" alt="Islamic Republic of Afghanistan National 2" width="200">
@@ -12,9 +12,9 @@
 | Anguilla | AI | UK flag not clearly defined.<br>Text says the seal on the flag has dolphins but Images show that the seal on the flag has fish.<br>[Former Anguilla Government Website (Archive)](https://web.archive.org/web/20210415110050/http://www.gov.ai/flags.php) | National:<br><img src="./Flags/AI/AI.svg" alt="Anguilla National" width="200"><br><img src="./Flags/AI/AI_(2).svg" alt="Anguilla National 2" width="200">
 | the Republic of Albania | AL | [Law #8926, 22.07.2002](https://upload.wikimedia.org/wikipedia/commons/d/d6/Ligji_8926_22.07.2002.pdf) | National:<br><img src="./Flags/AL/AL.svg" alt="Albania National" width="200"> |
 | the Republic of Armenia | AM | [ՀՍՏ 50-2012 ՀԱՅԱՍՏԱՆԻ ԱԶԳԱՅԻՆ ՍՏԱՆԴԱՐՏ](http://yeraguyn.com/wp-content/uploads/2010/04/HST-50-2012.pdf) | National:<br><img src="./Flags/AM/AM.svg" alt="Armenia National" width="200">
-| the Republic of Angola | AO |
-| Antarctica | AQ |
-| the Argentine Republic | AR |
+| the Republic of Angola | AO | [REPU'BLICA DE ANGOLA<br>SI'MBOLOS NACIONAIS DA REPU'BLICA DE ANGOLA<br>Manual de Normas Gra'ficas e Protocolares](https://web.archive.org/web/20190901222558/https://www.governo.gov.ao/download.aspx?id=1728&tipo=publicacao)<br>Document uses pure red and yellow. | National:<br><img src="./Flags/AO/AO.svg" alt="Angola National" width="200">
+| Antarctica | AQ | No official flag, just proposals. |
+| the Argentine Republic | AR | [NORMA IRAM-DEF D 7679: 2002<br>Bandera Argentina de ceremonia<br>Características](http://manuelbelgrano.gov.ar/wp-content/uploads/2013/10/IRAM_7679_2002.pdf)<br>[NORMA IRAM-DEF D 7677: 2002<br>Bandera Argentina de izar<br>Características](http://manuelbelgrano.gov.ar/wp-content/uploads/2013/10/IRAM_7677_2002.pdf)<br>[NORMA IRAM-DEF D 7675: 2003<br>Bandera Argentina de ceremonia<br>Accesorios](https://mininterior.gob.ar/asuntospoliticos/pdf_/iram-7675-2003.pdf)<br>[NORMA IRAM-DEF D 7674: 2004<br>Bandera Argentina<br>Características de su confección](https://www.mininterior.gob.ar/asuntospoliticos/pdf_/iram-7674-2004.pdf) | National:<br><img src="./Flags/AR/AR.svg" alt="Argentine Republic National" width="200">
 | American Samoa | AS |
 | the Republic of Austria | AT | 
 | the Commonwealth of Australia | AU |
@@ -66,7 +66,7 @@
 | the Kingdom of Denmark | DK |
 | the Commonwealth of Dominica | DM |
 | the Dominican Republic | DO |
-| the People's Democratic Republic of Algeria | DZ | |
+| the People's Democratic Republic of Algeria | DZ |
 | the Republic of Ecuador | EC |
 | the Republic of Estonia | EE |
 | the Arab Republic of Egypt | EG |
@@ -291,71 +291,71 @@
 | Country | ISO 3166-1 alpha-2 | Flag Graphical Rules | Flag (National, State and Civil)
 | - | - | - | - |
 | the Turkish Republic of Northern Cyprus | (CT.TR, used by Turkey) |
-| the Republic of Somaliland | |
-| the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta | |
-| the Pridnestrovian Moldavian Republic (Transnistria) | |
+| the Republic of Somaliland |
+| the Sovereign Military Hospitaller Order of Saint John of Jerusalem, of Rhodes and of Malta |
+| the Pridnestrovian Moldavian Republic (Transnistria) |
 
-# Subdivisions
+# Subdivisions (More reliable sources needed)
 
 ## Officially Assigned
 
 | Country | ISO 3166-1 alpha-2 | Flag Exists? | Flag (National, State and Civil)
 | - | - | - | - |
-| Canillo | AD-02 | No flag or Needs Evidence of a Flag | |
-| Encamp | AD-03 | No flag or Needs Evidence of a Flag | |
-| La Massana | AD-04 | No flag or Needs Evidence of a Flag | |
-| Ordino | AD-05 | No flag or Needs Evidence of a Flag | |
-| Sant Julià de Lòria | AD-06 | No flag or Needs Evidence of a Flag | |
-| Andorra la Vella | AD-07 | No flag or Needs Evidence of a Flag | |
-| Escaldes-Engordany | AD-08 | No flag or Needs Evidence of a Flag | |
+| Canillo | AD-02 | No flag or Needs Evidence of a Flag |
+| Encamp | AD-03 | No flag or Needs Evidence of a Flag |
+| La Massana | AD-04 | No flag or Needs Evidence of a Flag |
+| Ordino | AD-05 | No flag or Needs Evidence of a Flag |
+| Sant Julià de Lòria | AD-06 | No flag or Needs Evidence of a Flag |
+| Andorra la Vella | AD-07 | No flag or Needs Evidence of a Flag |
+| Escaldes-Engordany | AD-08 | No flag or Needs Evidence of a Flag |
 | ‘Ajmān | AE-AJ | [Coat of Arms on the Ajman Museum](https://upload.wikimedia.org/wikipedia/commons/1/1b/The_Ajman_National_Museum_%28Emirate_of_Ajman_UAE%29_-_panoramio.jpg) | <img src="./Flags/AE/AE-AJ.svg" alt="‘Ajmān" width="200"> |
 | Abū Z̧aby | AE-AZ | [1969 Stamp](https://upload.wikimedia.org/wikipedia/commons/e/e9/Stamp_of_Abu_Dhabi_-_1969_-_Colnect_625777_-_1_-_National_Flag_-_Surcharged.jpeg) | <img src="./Flags/AE/AE-AZ.svg" alt="Abū Z̧aby" width="200"> |
-| al-Fujayrah | AE-FU | No flag (Needs Evidence of no Flag) | |
+| al-Fujayrah | AE-FU | No flag (Needs Evidence of no Flag) |
 | Ash Shāriqah | AE-SH | [1963 Stamp](https://upload.wikimedia.org/wikipedia/commons/0/03/Sharjah1963-65nosheikh.jpg) | <img src="./Flags/AE/AE-SH.svg" alt="Ash Shāriqah" width="200"> |
 | Dubayy | AE-DU | [Dubai Museum](https://maps.app.goo.gl/Sv3gvhUw7BJ3HxRk7), [Front flag may be 3:5 instead of 1:2](https://maps.app.goo.gl/259qn6iPDgUmj7xt7). | <img src="./Flags/AE/AE-DU.svg" alt="Dubayy" width="200"><br><img src="./Flags/AE/AE-DU_(2).svg" alt="Dubayy (2)" width="200"> |
 | Ra’s al-Khaymah | AE-RK | [Image of flag (Archive)](https://web.archive.org/web/20070314033218/https://www.emirates-islands.org.ae/images/PICS/18.JPG) | <img src="./Flags/AE/AE-RK.svg" alt="Ra’s al-Khaymah" width="200"> |
 | Umm al-Qaywayn | AE-UQ | Flag not clearly defined<br>[Old car license plates](https://upload.wikimedia.org/wikipedia/commons/1/16/Antiguas_patentes_de_autos_de_Umm_al-Qaywayn%2C_de_la_%C3%A9poca_del_protectorado_brit%C3%A1nico.jpg), [Old passport](https://upload.wikimedia.org/wikipedia/commons/8/8e/Antiguo_pasaporte_del_emirato_de_Umm_al-Qaywayn%3B_%C3%A9poca_del_protectora_brit%C3%A1nico.jpg) | <img src="./Flags/AE/AE-UQ.svg" alt="Umm al-Qaywayn" width="200"><br><img src="./Flags/AE/AE-UQ_(2).svg" alt="Umm al-Qaywayn (2)" width="200"><br><img src="./Flags/AE/AE-UQ_(3).svg" alt="Umm al-Qaywayn (3)" width="200"><br><img src="./Flags/AE/AE-UQ_(4).svg" alt="Umm al-Qaywayn (4)" width="200"><br><img src="./Flags/AE/AE-UQ_(5).svg" alt="Umm al-Qaywayn (5)" width="200"> |
-| Badakhshān | AF-BDS | No flag or Needs Evidence of a Flag | |
-| Bādghīs | AF-BDG | No flag or Needs Evidence of a Flag | |
-| Baghlān | AF-BGL | No flag or Needs Evidence of a Flag | |
-| Balkh | AF-BAL | No flag or Needs Evidence of a Flag | |
-| Bāmyān | AF-BAM | No flag or Needs Evidence of a Flag | |
-| Dāykundī | AF-DAY | No flag or Needs Evidence of a Flag | |
-| Farāh | AF-FRA | No flag or Needs Evidence of a Flag | |
-| Fāryāb | AF-FYB | No flag or Needs Evidence of a Flag | |
-| Ghaznī | AF-GHA | No flag or Needs Evidence of a Flag | |
-| Ghōr | AF-GHO | No flag or Needs Evidence of a Flag | |
-| Helmand | AF-HEL | No flag or Needs Evidence of a Flag | |
-| Herāt | AF-HER | No flag or Needs Evidence of a Flag | |
-| Jowzjān | AF-JOW | No flag or Needs Evidence of a Flag | |
-| Kābul | AF-KAB | No flag or Needs Evidence of a Flag | |
-| Kandahār | AF-KAN | No flag or Needs Evidence of a Flag | |
-| Kāpīsā | AF-KAP | No flag or Needs Evidence of a Flag | |
-| Khōst | AF-KHO | No flag or Needs Evidence of a Flag | |
-| Kunaṟ | AF-KNR | No flag or Needs Evidence of a Flag | |
-| Kunduz | AF-KDZ | No flag or Needs Evidence of a Flag | |
-| Laghmān | AF-LAG | No flag or Needs Evidence of a Flag | |
-| Lōgar | AF-LOG | No flag or Needs Evidence of a Flag | |
-| Nangarhār | AF-NAN | No flag or Needs Evidence of a Flag | |
-| Nīmrōz | AF-NIM | No flag or Needs Evidence of a Flag | |
-| Nūristān | AF-NUR | No flag or Needs Evidence of a Flag | |
-| Paktīkā | AF-PKA | No flag or Needs Evidence of a Flag | |
-| Paktiyā | AF-PIA | No flag or Needs Evidence of a Flag | |
-| Panjshayr | AF-PAN | No flag or Needs Evidence of a Flag | |
-| Parwān | AF-PAR | No flag or Needs Evidence of a Flag | |
-| Samangān | AF-SAM | No flag or Needs Evidence of a Flag | |
-| Sar-e Pul | AF-SAR | No flag or Needs Evidence of a Flag | |
-| Takhār | AF-TAK | No flag or Needs Evidence of a Flag | |
-| Uruzgān | AF-URU | No flag or Needs Evidence of a Flag | |
-| Wardak | AF-WAR | No flag or Needs Evidence of a Flag | |
-| Zābul | AF-ZAB | No flag or Needs Evidence of a Flag | |
+| Badakhshān | AF-BDS | No flag or Needs Evidence of a Flag |
+| Bādghīs | AF-BDG | No flag or Needs Evidence of a Flag |
+| Baghlān | AF-BGL | No flag or Needs Evidence of a Flag |
+| Balkh | AF-BAL | No flag or Needs Evidence of a Flag |
+| Bāmyān | AF-BAM | No flag or Needs Evidence of a Flag |
+| Dāykundī | AF-DAY | No flag or Needs Evidence of a Flag |
+| Farāh | AF-FRA | No flag or Needs Evidence of a Flag |
+| Fāryāb | AF-FYB | No flag or Needs Evidence of a Flag |
+| Ghaznī | AF-GHA | No flag or Needs Evidence of a Flag |
+| Ghōr | AF-GHO | No flag or Needs Evidence of a Flag |
+| Helmand | AF-HEL | No flag or Needs Evidence of a Flag |
+| Herāt | AF-HER | No flag or Needs Evidence of a Flag |
+| Jowzjān | AF-JOW | No flag or Needs Evidence of a Flag |
+| Kābul | AF-KAB | No flag or Needs Evidence of a Flag |
+| Kandahār | AF-KAN | No flag or Needs Evidence of a Flag |
+| Kāpīsā | AF-KAP | No flag or Needs Evidence of a Flag |
+| Khōst | AF-KHO | No flag or Needs Evidence of a Flag |
+| Kunaṟ | AF-KNR | No flag or Needs Evidence of a Flag |
+| Kunduz | AF-KDZ | No flag or Needs Evidence of a Flag |
+| Laghmān | AF-LAG | No flag or Needs Evidence of a Flag |
+| Lōgar | AF-LOG | No flag or Needs Evidence of a Flag |
+| Nangarhār | AF-NAN | No flag or Needs Evidence of a Flag |
+| Nīmrōz | AF-NIM | No flag or Needs Evidence of a Flag |
+| Nūristān | AF-NUR | No flag or Needs Evidence of a Flag |
+| Paktīkā | AF-PKA | No flag or Needs Evidence of a Flag |
+| Paktiyā | AF-PIA | No flag or Needs Evidence of a Flag |
+| Panjshayr | AF-PAN | No flag or Needs Evidence of a Flag |
+| Parwān | AF-PAR | No flag or Needs Evidence of a Flag |
+| Samangān | AF-SAM | No flag or Needs Evidence of a Flag |
+| Sar-e Pul | AF-SAR | No flag or Needs Evidence of a Flag |
+| Takhār | AF-TAK | No flag or Needs Evidence of a Flag |
+| Uruzgān | AF-URU | No flag or Needs Evidence of a Flag |
+| Wardak | AF-WAR | No flag or Needs Evidence of a Flag |
+| Zābul | AF-ZAB | No flag or Needs Evidence of a Flag |
 | Saint George | AG-03 | No flag or Needs Evidence of a Flag |
 | Saint John | AG-04 | No flag or Needs Evidence of a Flag |
 | Saint Mary | AG-05 | No flag or Needs Evidence of a Flag |
 | Saint Paul | AG-06 | No flag or Needs Evidence of a Flag |
 | Saint Peter | AG-07 | No flag or Needs Evidence of a Flag |
 | Saint Philip | AG-08 | No flag or Needs Evidence of a Flag |
-| Barbuda | AG-10 | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag|
+| Barbuda | AG-10 | Barbuda Council flag not counted, No flag or Needs Evidence of a Flag |
 | Redonda | AG-11 | Kingdom of Redonda flag not counted, No flag or Needs Evidence of a Flag |
 | Berat | AL-01 | Needs Evidence of a Flag, Image based on description only. | <img src="./Flags/AL/AL-01.svg" alt="Berat" width="200"> |
 | Durrës | AL-02 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-02.svg" alt="Durrës" width="200"> |
@@ -364,8 +364,8 @@
 | Gjirokastër | AL-05 | [Photo of Flag](https://www.crwflags.com/fotw/images/a/al-gj.jpg) | <img src="./Flags/AL/AL-05.svg" alt="Korçë" width="200"> |
 | Korçë | AL-06 | [Photo of Flag (Unclear)](https://www.korcaregion.com/foto/ana_verushi_kryetare_qarku_korce.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-06.svg" alt="Korçë" width="200"> |
 | Kukës | AL-07 | [Photo of Flag (Archive)](https://web.archive.org/web/20200826083308/https://albeu.com/dokumenta/foto/dorehiqet_bekteshi.jpg)<br>Albanian Flag ratios used. | <img src="./Flags/AL/AL-07.svg" alt="Kukës" width="200"> |
-| Lezhë | AL-08 | [Official Facebook Account](https://www.facebook.com/photo/?fbid=2003128826488535&set=pcb.2003129549821796)<br>Emblem has changed since the photo has taken and thus uses the updated one. Flag may be different. | <img src="./Flags/AL/AL-08.svg" alt="Kukës" width="200"> |
-| Dibër | AL-09 | [Photo of Flag](https://qarkudiber.gov.al/sot-me-date-27-12-2024-ne-ambientet-e-keshillit-te-qarkut-u-zhvillua-mbledhja-e-keshillit/)<br>Uses png image. | <img src="./Flags/AL/AL-09.svg" alt="Kukës" width="200"> |
+| Lezhë | AL-08 | [Official Facebook Account](https://www.facebook.com/photo/?fbid=2003128826488535&set=pcb.2003129549821796)<br>Emblem has changed since the photo has taken and thus uses the updated one. Flag may be different. | <img src="./Flags/AL/AL-08.svg" alt="Lezhë" width="200"> |
+| Dibër | AL-09 | [Photo of Flag](https://qarkudiber.gov.al/sot-me-date-27-12-2024-ne-ambientet-e-keshillit-te-qarkut-u-zhvillua-mbledhja-e-keshillit/)<br>Uses png image. | <img src="./Flags/AL/AL-09.svg" alt="Dibër" width="200"> |
 | Shkodër | AL-10 | [Photo of Flag](https://qarkushkoder.gov.al/31-12-2024/) | <img src="./Flags/AL/AL-10.svg" alt="Shkodër" width="200"> |
 | Tiranë | AL-11 | [Photo of Flag](http://1.bp.blogspot.com/-X6wNelyy_jw/UK_QNXnzBNI/AAAAAAAAAp0/JS0mYc-30v8/s1600/IMG_1453.JPG)<br>Albanian Flag ratios used.<br>Someone replace the Tiranë Emblem's crown with Berat's crown and add the correct colors plz | <img src="./Flags/AL/AL-11.svg" alt="Tiranë" width="200"> |
 | Vlorë | AL-12 | [Photo of Flag](https://i.ytimg.com/vi/AM1i8rWXcXc/maxresdefault.jpg) | <img src="./Flags/AL/AL-12.svg" alt="Vlorë" width="200"> |
@@ -380,3 +380,45 @@
 | Syunik' | AM-SU | No flag or Needs Evidence of a Flag |
 | Tavuš | AM-TV | No flag or Needs Evidence of a Flag |
 | Vayoć Jor | AM-VD | No flag or Needs Evidence of a Flag |
+| Bengo | AO-BGO | No flag or Needs Evidence of a Flag |
+| Benguela | AO-BGU | No flag or Needs Evidence of a Flag |
+| Bié | AO-BIE | No flag or Needs Evidence of a Flag |
+| Cabinda | AO-CAB | Republic of Cabinda flag not counted, No flag or Needs Evidence of a Flag |
+| Cuando Cubango | AO-CCU | No flag or Needs Evidence of a Flag |
+| Cuanza-Norte | AO-CNO | No flag or Needs Evidence of a Flag |
+| Cuanza-Sul | AO-CUS | No flag or Needs Evidence of a Flag |
+| Cunene | AO-CNN | No flag or Needs Evidence of a Flag |
+| Huambo | AO-HUA | No flag or Needs Evidence of a Flag |
+| Huíla | AO-HUI | No flag or Needs Evidence of a Flag |
+| Luanda | AO-LUA | No flag or Needs Evidence of a Flag |
+| Lunda-Norte | AO-LNO | No flag or Needs Evidence of a Flag |
+| Lunda-Sul | AO-LSU | No flag or Needs Evidence of a Flag |
+| Malange | AO-MAL | No flag or Needs Evidence of a Flag |
+| Moxico | AO-MOX | No flag or Needs Evidence of a Flag |
+| Namibe | AO-NAM | No flag or Needs Evidence of a Flag |
+| Uíge | AO-UIG | No flag or Needs Evidence of a Flag |
+| Zaire | AO-ZAI | No flag or Needs Evidence of a Flag |
+| Salta | AR-A |
+| Buenos Aires | AR-B |
+| Ciudad Autónoma de Buenos Aires | AR-C |
+| San Luis | AR-D |
+| Entre Ríos | AR-E |
+| La Rioja | AR-F |
+| Santiago del Estero | AR-G |
+| Chaco | AR-H |
+| San Juan | AR-J |
+| Catamarca | AR-K |
+| La Pampa | AR-L |
+| Mendoza | AR-M |
+| Misiones | AR-N |
+| Formosa | AR-P |
+| Neuquén | AR-Q |
+| Río Negro | AR-R |
+| Santa Fe | AR-S |
+| Tucumán | AR-T |
+| Chubut | AR-U |
+| Tierra del Fuego | AR-V |
+| Corrientes | AR-W |
+| Córdoba | AR-X |
+| Jujuy | AR-Y |
+| Santa Cruz | AR-Z |
