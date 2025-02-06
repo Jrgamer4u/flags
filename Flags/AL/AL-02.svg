@@ -1,8 +1,8 @@
 <svg width="700" height="500" version="1.1" xmlns="http://www.w3.org/2000/svg">
-   <path d="M0 0h700v250H0z" fill="#f5f17a" stroke-width=".707" />
-   <path d="M0 250h700v250H0z" fill="#3d85d5" stroke-width=".707" />
+   <path d="M0 0h700v250H0z" fill="#f5f17a" />
+   <path d="M0 250h700v250H0z" fill="#3d85d5" />
    <g clip-rule="evenodd" fill-rule="evenodd" shape-rendering="geometricPrecision">
-      <circle cx="350" cy="250" r="111.67" fill="#fff" image-rendering="optimizeQuality" stroke-width=".942" />
+      <circle cx="350" cy="250" r="111.67" fill="#fff" image-rendering="optimizeQuality" />
       <path
          d="m323.04 138.97 26.98 56.236 26.933-56.236a114.74 114.74 0 0 0-26.933-3.224c-9.293 0-18.35 1.138-26.98 3.224z"
          fill="#f8a609" image-rendering="optimizeQuality" />
@@ -29,6 +29,6 @@
          fill="#f5f17a" image-rendering="optimizeQuality" />
       <path
          d="M350 139.53A110.48 110.48 0 00239.53 250h12.975a97.5 97.5 0 0197.5-97.5 97.5 97.5 0 0197.5 97.5h12.975a110.48 110.48 0 00-110.47-110.47z"
-         fill="#050d81" image-rendering="optimizeQuality" stroke-width=".932" />
+         fill="#050d81" image-rendering="optimizeQuality" />
    </g>
 </svg>

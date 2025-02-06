@@ -1,7 +1,5 @@
 <svg width="1000" height="500" viewBox="0 0 264.58 132.29" xmlns="http://www.w3.org/2000/svg">
-    <g stroke-width=".278">
-        <path fill="#d90012" d="M0 0h264.58v44.097H0z" />
-        <path fill="#f2a800" d="M0 88.194h264.58v44.097H0z" />
-        <path fill="#0033a0" d="M0 44.097h264.58v44.097H0z" />
-    </g>
+    <path fill="#d90012" d="M0 0h264.58v44.097H0z" />
+    <path fill="#f2a800" d="M0 88.194h264.58v44.097H0z" />
+    <path fill="#0033a0" d="M0 44.097h264.58v44.097H0z" />
 </svg>
