@@ -1,0 +1,5 @@
+<svg width="5" height="3" xmlns="http://www.w3.org/2000/svg">
+    <rect width="3.75" height="3" x="1.25" fill="RGB(255 13 0)"/>
+    <!-- CMYK to RBG because svg doesn't support CMYK-->
+    <polygon points="0,0 1.25,0 2,0.3 1.25,0.6 2,0.9 1.25,1.2 2,1.5 1.25,1.8 2,2.1 1.25,2.4 2,2.7 1.25,3 0,3" fill="#fff"/>
+</svg>
