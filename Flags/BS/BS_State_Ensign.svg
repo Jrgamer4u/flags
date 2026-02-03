@@ -1,0 +1,9 @@
+<!-- This might be too precise but whatever this file is 9 lines long who cares-->
+<svg width="12.857142857142857142" height="6.857142857142857142" xmlns="http://www.w3.org/2000/svg">
+    <rect width="12.857142857142857142" height="6.857142857142857142" fill="#fff"/>
+    <rect width="0.857142857142857142" height="6.857142857142857142" x="6" fill="#012168"/>
+    <rect width="12.857142857142857142" height="0.857142857142857142" y="3" fill="#012168"/>
+    <rect width="6" height="3" fill="#00788B"/>
+    <rect width="6" height="1" y="1" fill="#FFC62D"/>
+    <polygon points="0,0 2.4,1.5 0,3" fill="#2D2926"/>
+</svg>
