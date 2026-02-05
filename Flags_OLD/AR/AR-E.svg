@@ -1,8 +1,1 @@
-<svg width="140cm" height="90cm" viewBox="0 0 1400 900" xmlns="http://www.w3.org/2000/svg">
-	<g stroke-width=".252">
-		<path fill="#75aadb" d="M0 0h1400v300H0z" />
-		<path fill="#fff" d="M0 300h1400v300H0z" />
-		<path fill="#75aadb" d="M0 600h1400v300H0z" />
-	</g>
-	<path fill="#e1050f" d="M81.113-126.177L1481.09 773.8l-162.226 252.354L-81.113 126.177z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="140cm" height="90cm" viewBox="0 0 1400 900"><g stroke-width=".252"><path fill="#75aadb" d="M0 0h1400v300H0z"/><path fill="#fff" d="M0 300h1400v300H0z"/><path fill="#75aadb" d="M0 600h1400v300H0z"/></g><path fill="#e1050f" d="M81.113-126.177L1481.09 773.8l-162.226 252.354L-81.113 126.177z"/></svg>
