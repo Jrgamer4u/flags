@@ -1,11 +1,11 @@
 {
-    "MD013": false,
-    "MD056": false,
-    "MD033": {
-      "allowed_elements": [
-        "br",
-        "a",
-        "img"
-      ]
-    }
+  "MD013": false,
+  "MD056": false,
+  "MD033": {
+    "allowed_elements": [
+      "br",
+      "a",
+      "img"
+    ]
   }
+}
