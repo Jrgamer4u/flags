@@ -1,0 +1,6 @@
+<svg width="3" height="2" xmlns="http://www.w3.org/2000/svg">
+    <rect width="1" height="2" fill="RGB(0 69 230)"/>
+    <rect width="1" height="2" x="1" fill="RGB(255 230 13)"/>
+    <rect width="1" height="2" x="2" fill="RGB(242 24 48)"/>
+    <!-- CMYK to RBG because svg doesn't support CMYK-->
+</svg>
