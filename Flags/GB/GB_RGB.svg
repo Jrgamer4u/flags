@@ -1,0 +1,13 @@
+<svg width="50" height="30" xmlns="http://www.w3.org/2000/svg">
+    <rect width="50" height="30" fill="RGB(0 36 125)" />
+    <line x1="0" y1="0" x2="50" y2="30" stroke="RGB(255 255 255)" stroke-width="6" />
+    <line x1="0" y1="30" x2="50" y2="0" stroke="RGB(255 255 255)" stroke-width="6" />
+    <line x1="-5" y1="-2" x2="25" y2="16" stroke="RGB(207 20 43)" stroke-width="2" />
+    <line x1="25" y1="14" x2="50" y2="-1" stroke="RGB(207 20 43)" stroke-width="2" />
+    <line x1="0" y1="31" x2="25" y2="16" stroke="RGB(207 20 43)" stroke-width="2" />
+    <line x1="25" y1="14" x2="55" y2="32" stroke="RGB(207 20 43)" stroke-width="2" />
+    <rect width="50" height="10" fill="RGB(255 255 255)" y="10"/>
+    <rect width="10" height="30" fill="RGB(255 255 255)" x="20"/>
+    <rect width="50" height="6" fill="RGB(207 20 43)" y="12"/>
+    <rect width="6" height="30" fill="RGB(207 20 43)" x="22"/>
+</svg>
