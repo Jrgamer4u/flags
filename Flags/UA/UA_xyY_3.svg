@@ -1,0 +1,5 @@
+<svg width="3" height="2" xmlns="http://www.w3.org/2000/svg">
+    <rect width="3" height="1" fill="LAB(35.00394775352874 -2.4417357106573387 0.3786183463710069)"/>
+    <rect width="3" height="1" y="1" fill="LAB(82.22655892228926 7.8235955814210385 83.85820664889042)"/>
+    <!-- xyY to LAB because svg doesn't support xyY-->
+</svg>
