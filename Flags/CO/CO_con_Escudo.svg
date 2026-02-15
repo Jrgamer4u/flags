@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="20">
+    <rect width="30" height="10" fill="#FFC800"/>
+    <rect width="30" height="5" y="10" fill="#003189"/>
+    <rect width="30" height="5" y="15" fill="#D80025"/>
+    <image href="Escudo.png" width="5.62126245847" height="6" x="12.1893687708" y="7"/>
+</svg>
