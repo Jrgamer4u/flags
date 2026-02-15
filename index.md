@@ -4,8 +4,9 @@ Only flags with definitions are shown. Work In Progress (duh)
 
 Helpful resource to make stars in SVG. [SVG star tool](https://cardioid3.github.io/apps/star/)
 
-Calculator for
-crescents. [Two circles Calculator](https://www.123calculus.com/en/two-circles-calculator-page-7-60-400.html)
+Calculator for crescents. [Two circles Calculator](https://www.123calculus.com/en/two-circles-calculator-page-7-60-400.html)
+
+Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encode/image/png)
 
 ## Officially Assigned
 
