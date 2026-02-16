@@ -1,0 +1,31 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="5928" height="3120" xmlns="http://www.w3.org/2000/svg">
+    <rect width="5928" height="3120" fill="#990422"/>
+    <g id="r2">
+        <rect id="r" width="5928" height="240" y="240" fill="#E0D5C3"/>
+        <use xlink:href="#r" y="480"/>
+    </g>
+    <use xlink:href="#r2" y="960"/>
+    <use xlink:href="#r2" y="1920"/>
+    <rect width="2372.5" height="1680" fill="#28284A"/>
+    <g id="s18">
+        <g id="s9">
+            <g id="s5">
+                <g id="s4">
+                    <g id="s2">
+                        <polygon id="s"
+                                 points="197.7083333,71.904 254.1921449042975,245.74329709145496 106.3156063101009,138.30470290854507 289.10106028989907,138.30470290854504 141.2245216957025,245.74329709145496"
+                                 fill="#E0D5C3"/>
+                        <use xlink:href="#s" y="336"/>
+                    </g>
+                    <use xlink:href="#s2" y="672"/>
+                </g>
+                <use xlink:href="#s" y="1344"/>
+            </g>
+            <use xlink:href="#s4" x="197.7083333" y="168"/>
+        </g>
+        <use xlink:href="#s9" x="395.4166667"/>
+    </g>
+    <use xlink:href="#s18" x="790.8333333"/>
+    <use xlink:href="#s9" x="1581.666667"/>
+    <use xlink:href="#s5" x="1977.083333"/>
+</svg>
