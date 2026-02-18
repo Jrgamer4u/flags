@@ -1,14 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="27" height="18">
-    <rect width="27" height="2" fill="#003476"/>
-    <rect width="27" height="2" y="2" fill="#FFF"/>
-    <rect width="27" height="2" y="4" fill="#003476"/>
-    <rect width="27" height="2" y="6" fill="#FFF"/>
-    <rect width="27" height="2" y="8" fill="#003476"/>
-    <rect width="27" height="2" y="10" fill="#FFF"/>
-    <rect width="27" height="2" y="12" fill="#003476"/>
-    <rect width="27" height="2" y="14" fill="#FFF"/>
-    <rect width="27" height="2" y="16" fill="#003476"/>
-    <rect width="10" height="10" fill="#003476"/>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="27" height="18">
+    <rect width="27" height="18" fill="#003476"/>
+    <rect id="a" width="17" height="2" x="10" y="2" fill="#FFF"/>
+    <use xlink:href="#a" y="4"/>
+    <rect id="b" width="27" height="2" y="10" fill="#FFF"/>
+    <use xlink:href="#b" y="4"/>
     <rect width="10" height="2" y="4" fill="#FFF"/>
     <rect width="2" height="10" x="4" fill="#FFF"/>
 </svg>
