@@ -1,31 +1,31 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1716" height="1092" xmlns="http://www.w3.org/2000/svg">
+<svg width="1716" height="1092" xmlns="http://www.w3.org/2000/svg">
     <rect width="1716" height="1092" fill="#990422"/>
-    <g id="r2">
-        <rect id="r" width="1716" height="84" y="84" fill="#E0D5C3"/>
-        <use xlink:href="#r" y="168"/>
+    <g id="b">
+        <rect id="a" width="1716" height="84" y="84" fill="#E0D5C3"/>
+        <use href="#a" y="168"/>
     </g>
-    <use xlink:href="#r2" y="336"/>
-    <use xlink:href="#r2" y="672"/>
+    <use href="#b" y="336"/>
+    <use href="#b" y="672"/>
     <rect width="828.75" height="588" fill="#28284A"/>
-    <g id="s18">
-        <g id="s9">
-            <g id="s5">
-                <g id="s4">
-                    <g id="s2">
-                        <polygon id="s"
+    <g id="h">
+        <g id="g">
+            <g id="f">
+                <g id="e">
+                    <g id="d">
+                        <polygon id="c"
                                  points="69.0625,25.1664 88.83183406150413,86.01015398200923 37.07504555353532,48.406646017990774 101.04995444646468,48.40664601799077 49.293165938495875,86.01015398200923"
                                  fill="#E0D5C3"/>
-                        <use xlink:href="#s" y="117.6"/>
+                        <use href="#c" y="117.6"/>
                     </g>
-                    <use xlink:href="#s2" y="235.2"/>
+                    <use href="#d" y="235.2"/>
                 </g>
-                <use xlink:href="#s" y="470.4"/>
+                <use href="#c" y="470.4"/>
             </g>
-            <use xlink:href="#s4" x="69.0625" y="58.8"/>
+            <use href="#e" x="69.0625" y="58.8"/>
         </g>
-        <use xlink:href="#s9" x="138.125"/>
+        <use href="#g" x="138.125"/>
     </g>
-    <use xlink:href="#s18" x="276.25"/>
-    <use xlink:href="#s9" x="552.5"/>
-    <use xlink:href="#s5" x="690.625"/>
+    <use href="#h" x="276.25"/>
+    <use href="#g" x="552.5"/>
+    <use href="#f" x="690.625"/>
 </svg>

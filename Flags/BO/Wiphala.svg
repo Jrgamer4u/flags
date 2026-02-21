@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="7" height="7">
+    <g id="e">
+        <g id="c">
+            <g id="b">
+                <rect id="a" width="1" height="1"/>
+                <use href="#a" x="1" y="1"/>
+            </g>
+            <use href="#b" x="2" y="2"/>
+        </g>
+        <use href="#c" x="4" y="4"/>
+    </g>
+    <g id="f">
+        <use href="#e" fill="#FFF"/>
+        <use href="#e" x="1" fill="#F8E700"/>
+        <use href="#e" x="2" fill="#FF6820"/>
+        <use href="#e" x="3" fill="#DA281B"/>
+        <use href="#e" x="4" fill="#743BBC"/>
+        <use href="#e" x="5" fill="#0032A1"/>
+        <use href="#e" x="6" fill="#007B34"/>
+    </g>
+    <use href="#f" x="-7"/>
+</svg>

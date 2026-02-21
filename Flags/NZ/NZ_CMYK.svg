@@ -1,4 +1,4 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="60" xmlns="http://www.w3.org/2000/svg">
+<svg width="120" height="60" xmlns="http://www.w3.org/2000/svg">
     <rect width="60" height="30" fill="RGB(0 23 156)"/>
     <line x1="0" y1="0" x2="60" y2="30" stroke="RGB(255 255 255)" stroke-width="6"/>
     <line x1="0" y1="30" x2="60" y2="0" stroke="RGB(255 255 255)" stroke-width="6"/>
@@ -22,7 +22,7 @@
     <polygon id="s"
              points="90,8.845613327285198 91.85410196624969,14.551952425056118 87,11.025240911301282 93,11.025240911301282 88.14589803375031,14.55195242505612"
              fill="RGB(242 0 48)" stroke="RGB(255 255 255)" paint-order="stroke"/>
-    <use xlink:href="#s" x="-13.86375" y="13.94842"/>
+    <use href="#s" x="-13.86375" y="13.94842"/>
     <polygon
             points="101.88322,19.701264439404333 103.42830497187474,24.4565470208801 99.38322,21.517620759417735 104.38322,21.517620759417735 100.33813502812525,24.4565470208801"
             fill="RGB(242 0 48)" stroke="RGB(255 255 255)" paint-order="stroke"/>

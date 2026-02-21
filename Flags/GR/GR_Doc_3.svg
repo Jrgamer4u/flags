@@ -1,9 +1,9 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="27" height="18">
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="18">
     <rect width="27" height="18" fill="RGB(0 155 186)"/>
     <rect id="a" width="17" height="2" x="10" y="2" fill="RGB(255 255 255)"/>
-    <use xlink:href="#a" y="4"/>
+    <use href="#a" y="4"/>
     <rect id="b" width="27" height="2" y="10" fill="RGB(255 255 255)"/>
-    <use xlink:href="#b" y="4"/>
+    <use href="#b" y="4"/>
     <rect width="10" height="2" y="4" fill="RGB(255 255 255)"/>
     <rect width="2" height="10" x="4" fill="RGB(255 255 255)"/>
 </svg>

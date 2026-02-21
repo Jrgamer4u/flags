@@ -1,31 +1,31 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="338" height="234" xmlns="http://www.w3.org/2000/svg">
+<svg width="338" height="234" xmlns="http://www.w3.org/2000/svg">
     <rect width="338" height="234" fill="#990422"/>
-    <g id="r2">
-        <rect id="r" width="338" height="18" y="18" fill="#E0D5C3"/>
-        <use xlink:href="#r" y="36"/>
+    <g id="b">
+        <rect id="a" width="338" height="18" y="18" fill="#E0D5C3"/>
+        <use href="#a" y="36"/>
     </g>
-    <use xlink:href="#r2" y="72"/>
-    <use xlink:href="#r2" y="144"/>
+    <use href="#b" y="72"/>
+    <use href="#b" y="144"/>
     <rect width="156" height="126" fill="#28284A"/>
-    <g id="s18">
-        <g id="s9">
-            <g id="s5">
-                <g id="s4">
-                    <g id="s2">
-                        <polygon id="s"
+    <g id="h">
+        <g id="g">
+            <g id="f">
+                <g id="e">
+                    <g id="d">
+                        <polygon id="c"
                                  points="13,5.3928 17.236285870322313,18.43074728185912 6.145545475757569,10.37285271814088 19.85445452424243,10.372852718140878 8.763714129677687,18.43074728185912"
                                  fill="#E0D5C3"/>
-                        <use xlink:href="#s" y="25.2"/>
+                        <use href="#c" y="25.2"/>
                     </g>
-                    <use xlink:href="#s2" y="50.4"/>
+                    <use href="#d" y="50.4"/>
                 </g>
-                <use xlink:href="#s" y="100.8"/>
+                <use href="#c" y="100.8"/>
             </g>
-            <use xlink:href="#s4" x="13" y="12.6"/>
+            <use href="#e" x="13" y="12.6"/>
         </g>
-        <use xlink:href="#s9" x="26"/>
+        <use href="#g" x="26"/>
     </g>
-    <use xlink:href="#s18" x="52"/>
-    <use xlink:href="#s9" x="104"/>
-    <use xlink:href="#s5" x="130"/>
+    <use href="#h" x="52"/>
+    <use href="#g" x="104"/>
+    <use href="#f" x="130"/>
 </svg>

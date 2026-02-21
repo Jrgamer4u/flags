@@ -1,15 +1,15 @@
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
     <rect width="200" height="100" fill="#005297"/>
     <polygon points="53,0 153,0 153,100" fill="#FFD410"/>
-    <polygon id="s"
-             points="34,-9.5 39.583959896778495,7.6856614465619995 24.96496309519604,-2.9356614465619986 43.03503690480396,-2.935661446562001 28.416040103221505,7.685661446562001"
-             fill="RGB(255 255 255)"/>
-    <use xlink:href="#s" x="12.5" y="12.5"/>
-    <use xlink:href="#s" x="25" y="25"/>
-    <use xlink:href="#s" x="37.5" y="37.5"/>
-    <use xlink:href="#s" x="50" y="50"/>
-    <use xlink:href="#s" x="62.5" y="62.5"/>
-    <use xlink:href="#s" x="75" y="75"/>
-    <use xlink:href="#s" x="87.5" y="87.5"/>
-    <use xlink:href="#s" x="100" y="100"/>
+    <g id="c">
+        <g id="b">
+            <polygon id="a"
+                     points="34,-9.5 39.583959896778495,7.6856614465619995 24.96496309519604,-2.9356614465619986 43.03503690480396,-2.935661446562001 28.416040103221505,7.685661446562001"
+                     fill="#FFF"/>
+            <use href="#a" x="12.5" y="12.5"/>
+        </g>
+        <use href="#b" x="25" y="25"/>
+    </g>
+    <use href="#c" x="50" y="50"/>
+    <use href="#c" x="100" y="100"/>
 </svg>
