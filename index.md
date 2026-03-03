@@ -296,12 +296,12 @@ Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encod
 
 ## Unofficial
 
-| Country                             | ISO 3166-1 alpha-2 | Flag Definition(s) | Flag(s) |
-|-------------------------------------|--------------------|--------------------|---------|
-| Turkish Republic of Northern Cyprus | CT                 |                    |         |
-| Republic of Abkhazia                | XA                 |                    |         |
-| State of Alania                     | XO                 |                    |         |
-| Republic of Kosovo                  | XK                 |                    |         |
+| Country                             | ISO 3166-1 alpha-2 | Flag Definition(s)                                                                                                                                                                                                                                              | Flag(s)                                                                                |
+|-------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| Turkish Republic of Northern Cyprus | CT                 | [KKTC Bayrağının Ölçüleri](https://www.mebnet.net/KKTCBayragi), [KUZEY KIBRIS TÜRK CUMHURİYETİ BAYRAK YASASI](https://www.mebnet.net/sites/default/files/15-1984BayrakYasasi.pdf)<br>Colors from [Türk Bayrağı Kanunu](https://ttk.gov.tr/turk-bayragi-kanunu/) | <img src="./Flags/CT/CT.svg" width="200"><br><img src="./Flags/TR/TR.svg" width="200"> |
+| Republic of Abkhazia                | XA                 |                                                                                                                                                                                                                                                                 |                                                                                        |
+| State of Alania                     | XO                 |                                                                                                                                                                                                                                                                 |                                                                                        |
+| Republic of Kosovo                  | XK                 |                                                                                                                                                                                                                                                                 |                                                                                        |
 
 ## No Code
 
@@ -364,9 +364,9 @@ Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encod
 
 ### TR
 
-| Subdivision                         | ISO 3166-2 | Flag Definition(s) | Flag(s) |
-|-------------------------------------|------------|--------------------|---------|
-| Turkish Republic of Northern Cyprus | TR-CT      | CT*                |         |
+| Subdivision                         | ISO 3166-2 | Flag Definition(s) | Flag(s)                                   |
+|-------------------------------------|------------|--------------------|-------------------------------------------|
+| Turkish Republic of Northern Cyprus | TR-CT      | CT*                | <img src="./Flags/CT/CT.svg" width="200"> |
 
 ### US
 
