@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="6">
+    <rect width="12" height="6"/>
+    <rect width="12" height="4" fill="#FFF"/>
+    <rect width="12" height="2" fill="#09DC00"/>
+    <rect width="3" height="6" fill="#F00024"/>
+    <!-- CMYK to RBG because svg doesn't support CMYK-->
+</svg>
