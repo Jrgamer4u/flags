@@ -354,8 +354,8 @@ Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encod
 | Department of Mayotte                              | FR-976     | YT                 | No flag.                                  |
 | Collectivity of Saint-Barthélemy                   | FR-BL      | BL                 | No flag.                                  |
 | Collectivity of Saint-Martin                       | FR-MF      | MF                 | No flag.                                  |
-| New Caledonia                                      | FR-NC      | NC                 | <img src="./Flags/NC/NC.svg">             |
-| Overseas Lands of French Polynesia                 | FR-PF      | PF                 | <img src="./Flags/PF/PF.svg">             |
+| New Caledonia                                      | FR-NC      | NC                 | <img src="./Flags/NC/NC.svg" width="200"> |
+| Overseas Lands of French Polynesia                 | FR-PF      | PF                 | <img src="./Flags/PF/PF.svg" width="200"> |
 | Overseas Collectivity of Saint-Pierre and Miquelon | FR-PM      | PM                 | No flag.                                  |
 | French Southern and Antarctic Lands                | FR-TF      | TF                 | <img src="./Flags/TF/TF.svg" width="200"> |
 | Territory of the Wallis and Futuna Islands         | FR-WF      | WF                 | No flag.                                  |
