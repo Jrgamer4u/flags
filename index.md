@@ -292,15 +292,15 @@ Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encod
 
 ## Transitional Reserved
 
-| ISO 3166-1 alpha-2 | Country               | Reserved From | Reserved To | Flag Definition(s) | Flag(s)                                   |
-|--------------------|-----------------------|---------------|-------------|--------------------|-------------------------------------------|
-| BU                 | Burma                 | 1989-12       | 2039-12     | MM                 | <img src="./Flags/MM/MM.svg" width="200"> |
-| NT                 | Neutral Zone          | 1993-07       | 2043-07     | No Flag.           |                                           |
-| ZR                 | Zaire                 | 1997-07       | 2047-07     |                    |                                           |
-| TP                 | East Timor            | 2002-05       | 2052-05     | TL                 | <img src="./Flags/TL/TL.svg" width="200"> |
-| YU                 | Yugoslavia            | 2003-07       | 2053-07     |                    |                                           |
-| CS                 | Serbia and Montenegro | 2006-09       | 2056-09     |                    |                                           |
-| AN                 | Netherlands Antilles  | 2010-12       | 2060-12     |                    |                                           |
+| ISO 3166-1 alpha-2 | Country               | Reserved From | Reserved To | Flag Definition(s)                                                                                                                                             | Flag(s)                                                                                  |
+|--------------------|-----------------------|---------------|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| BU                 | Burma                 | 1989-12       | 2039-12     | MM                                                                                                                                                             | <img src="./Flags/MM/MM.svg" width="200">                                                |
+| NT                 | Neutral Zone          | 1993-07       | 2043-07     | No Flag.                                                                                                                                                       |                                                                                          |
+| ZR                 | Zaire                 | 1997-07       | 2047-07     |                                                                                                                                                                |                                                                                          |
+| TP                 | East Timor            | 2002-05       | 2052-05     | TL                                                                                                                                                             | <img src="./Flags/TL/TL.svg" width="200">                                                |
+| YU                 | Yugoslavia            | 2003-07       | 2053-07     |                                                                                                                                                                |                                                                                          |
+| CS                 | Serbia and Montenegro | 2006-09       | 2056-09     |                                                                                                                                                                |                                                                                          |
+| AN                 | Netherlands Antilles  | 2010-12       | 2060-12     | NL, [LANDSVERORDENING van de 19de november 1959 tot vaststelling van de vlag van de Nederlandse Antillen](https://lokaleregelgeving.overheid.nl/CVDR143559/1)  | <img src="./Flags/NL/NL.svg" width="200"> <br> <img src="./Flags/AN/AN.svg" width="200"> |
 
 ## Unofficial
 
