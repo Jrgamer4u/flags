@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27" height="16">
+    <polygon points="16,6 27,0 0,0 0,16, 27,17 16,10" fill="RGB(235 0 36)"/>
+    <rect width="4" height="16" fill="#FFF" x="6"/>
+    <polygon points="0,6 16,6 27,8 16,10 0,10" fill="#FFF"/>
+    <polygon points="0,7 21.5,7 27,8 21.5,9 0,9" fill="RGB(0 24 155)"/>
+    <rect width="2" height="16" fill="RGB(0 24 155)" x="7"/>
+    <!-- CMYK to RBG because svg doesn't support CMYK-->
+</svg>
