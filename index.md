@@ -317,10 +317,10 @@ Tool to embed images in SVG. [PNG to Base64](https://base64.guru/converter/encod
 
 ## No Code
 
-| Country                                                                                 | Flag Definition(s) | Flag(s) |
-|-----------------------------------------------------------------------------------------|--------------------|---------|
-| Pridnestrovian Moldavian Republic                                                       |                    |         |
-| Republic of Somaliland                                                                  |                    |         |
+| Country                                                                                 | Flag Definition(s)                                                                                                                                                                                                                                                                 | Flag(s)                                                                                                                          |
+|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| Pridnestrovian Moldavian Republic                                                       |                                                                                                                                                                                                                                                                                    |                                                                                                                                  |
+| Republic of Somaliland                                                                  | [National Symbols](https://web.archive.org/web/20260311011302/https://www.govsomaliland.org/article/national-symbols), Shahada has no standard <br> colors from [Facebook post with flat flag colors](https://www.facebook.com/photo/?fbid=2947781992131517&set=a.273886801506755) | <img src="./Flags/SOMALILAND/Somaliland.svg" width="200"> <br> <img src="./Flags/SOMALILAND/Somaliland_varient.svg" width="200"> |
 
 # Subdivisions (Including unofficial subdivisions, later)
 
