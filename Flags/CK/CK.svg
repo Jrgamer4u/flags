@@ -1,0 +1,33 @@
+<svg width="120" height="60" xmlns="http://www.w3.org/2000/svg">
+    <rect width="60" height="30" fill="#21218C"/>
+    <line x1="0" y1="0" x2="60" y2="30" stroke="#FFF" stroke-width="6"/>
+    <line x1="0" y1="30" x2="60" y2="0" stroke="#FFF" stroke-width="6"/>
+    <polygon points="28.585786,16.414214 -1.4142136,1.4142136 0,0 30,15 " fill="#F00"/>
+    <polygon points="28.585786,13.585786 58.585786,-1.4142136 60,0 30,15 " fill="#F00"/>
+    <polygon points="31.414214,16.414214 1.4142136,31.414214 0,30 30,15 " fill="#F00"/>
+    <polygon points="31.414214,13.585786 61.414214,28.585786 60,30 30,15 " fill="#F00"/>
+    <rect width="60" height="10" fill="#FFF" y="10"/>
+    <rect width="10" height="30" fill="#FFF" x="25"/>
+    <rect width="60" height="6" fill="#F00" y="12"/>
+    <rect width="6" height="30" fill="#F00" x="27"/>
+    <polygon points="60,0 120,0 120,60 0,60 0,30 60,30 " fill="#21218C"/>
+    <g transform="translate(90 30)">
+        <polygon id="a"
+                 points="0,-26.076923 1.7633557568774196,-20.649872016875157 -2.853169548885461,-24.003973983124844 2.8531695488854605,-24.003973983124844 -1.7633557568774192,-20.649872016875157"
+                 fill="#FFF"/>
+        <use href="#a" transform="rotate(24)"/>
+        <use href="#a" transform="rotate(48)"/>
+        <use href="#a" transform="rotate(72)"/>
+        <use href="#a" transform="rotate(96)"/>
+        <use href="#a" transform="rotate(120)"/>
+        <use href="#a" transform="rotate(144)"/>
+        <use href="#a" transform="rotate(168)"/>
+        <use href="#a" transform="rotate(192)"/>
+        <use href="#a" transform="rotate(216)"/>
+        <use href="#a" transform="rotate(240)"/>
+        <use href="#a" transform="rotate(264)"/>
+        <use href="#a" transform="rotate(288)"/>
+        <use href="#a" transform="rotate(312)"/>
+        <use href="#a" transform="rotate(336)"/>
+    </g>
+</svg> 
