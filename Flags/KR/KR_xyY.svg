@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="48">
+    <rect id="a" width="2" height="12" y="-6"/>
+    <rect id="b" width="2" height="5.5" y="-6"/>
+    <use id="c" href="#b" y="6.5"/>
+    <rect width="72" height="48" fill="#FFF"/>
+    <g transform="translate(36 24) rotate(33.6900675259798)">
+        <circle r="12" fill="LAB(46.0424 59.7583 25.4629)"/>
+        <path d="M -12,0 A 6,6 0 0 0 0,0 6,6 0 0 1 12,0 12,12 0 0 1 -12,0" fill="LAB(30.6404 12.1108 -68.4606)"/>
+        <use href="#a" x="-26"/>
+        <use href="#a" x="-23"/>
+        <use href="#a" x="-20"/>
+        <use href="#b" x="18"/>
+        <use href="#c" x="18"/>
+        <use href="#b" x="21"/>
+        <use href="#c" x="21"/>
+        <use href="#b" x="24"/>
+        <use href="#c" x="24"/>
+    </g>
+    <g transform="translate(36 24) rotate(-33.6900675259798)">
+        <use href="#a" x="-26"/>
+        <use href="#b" x="-23"/>
+        <use href="#c" x="-23"/>
+        <use href="#a" x="-20"/>
+        <use href="#b" x="18"/>
+        <use href="#c" x="18"/>
+        <use href="#a" x="21"/>
+        <use href="#b" x="24"/>
+        <use href="#c" x="24"/>
+    </g>
+    <!-- xyY to LAB because svg doesn't support xyY-->
+</svg>
