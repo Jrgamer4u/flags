@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="250">
+    <rect width="500" height="250" fill="#54BD06"/>
+    <rect width="500" height="170" fill="#DD291A"/>
+    <rect width="500" height="165" fill="#FEFEFE"/>
+    <rect width="500" height="85" fill="#DC291A"/>
+    <rect width="500" height="80" fill="#008BAF"/>
+    <path d="M 75.29366090222908,10.4707407093877 A 30,30 0 1 0 75.29366090222908,69.5292592906123 30,30 0 0 1 75.29366090222908,10.4707407093877" fill="#FEFEFE"/>
+    <g id="c">
+        <g id="b">
+            <polygon id="a" points="184,58 187.52671151375483,68.85410196624969 178.29366090222908,62.14589803375031 189.70633909777092,62.14589803375031 180.47328848624517,68.85410196624969" fill="#FEFEFE"/>
+            <use href="#a" y="-24"/>
+        </g>
+        <use href="#a" y="-48"/>
+    </g>
+    <use href="#c" x="-24"/>
+    <use href="#c" x="-48"/>
+    <use href="#b" x="-72"/>
+    <use href="#a" x="-96"/>
+</svg>
