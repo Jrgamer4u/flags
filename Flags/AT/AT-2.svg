@@ -1,0 +1,30 @@
+<svg
+        width="1033.823"
+        height="632.40997"
+        viewBox="-0.366 0.232 1033.823 632.40997"
+        xmlns="http://www.w3.org/2000/svg">
+    <g
+            transform="translate(-0.62700001,-0.02999999)">
+            <rect
+                    x="0.26100001"
+                    y="425.26199"
+                    fill="#E53F1B"
+                    width="1033.8"
+                    height="207.41"
+            />
+            <rect
+                    x="0.26100001"
+                    y="0.26199999"
+                    fill="#E53F1B"
+                    width="1033.8"
+                    height="207.41"
+            />
+    </g>
+    <rect
+            x="-0.34299999"
+            y="207.60001"
+            fill="#FFF"
+            width="1033.8"
+            height="217.59"
+    />
+</svg>
