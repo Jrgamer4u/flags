@@ -1,7 +1,7 @@
 <svg width="3" height="2" version="1.1" xmlns="http://www.w3.org/2000/svg">
     <rect width="3" height="2" fill="#0080C0"/>
-    <rect width="3" height="1" fill="#008000"/>
-    <polygon points="0,0 3,1 0,2" fill="#F00"/>
+    <rect width="3" height="1" fill="GREEN"/>
+    <polygon points="0,0 3,1 0,2" fill="RED"/>
     <image x=".21071428" y=".51428568" width="1.0140001" height=".97142857" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARwAAAEQCAYAAABiNsubAAAABHNCSVQICAgIfAhkiAAAFFtJREFU
 eJztndmS47gOROmO+f9f9jx0eEbl0kKCWBJAnqe7dFkUkExx5xiENOL9Hu/oMnTmFV0AQjy5M5zX
 i/XBGgY4mKcvLiuBPjOtHMbdBgY1CIo+ltmuFXOgyz/RBegGxxBy8ckXjUcHBtGRFbOhwO1ZNX/m
