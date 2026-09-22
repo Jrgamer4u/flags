@@ -2,3 +2,6 @@
 /shelf/
 /workspace.xml
 /editor.xml
+
+# Custom ignored files
+/inspectionProfiles/*
