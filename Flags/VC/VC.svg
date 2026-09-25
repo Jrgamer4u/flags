@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="8">
+    <rect width="12" height="8" fill="#006A12"/>
+    <rect width="9" height="8" fill="#FFD600"/>
+    <rect width="3" height="8" fill="#004AAD"/>
+    <!-- bad -->
+    <polygon id="a" points="6,4 5.212,5.16666666667 6,6.333333333333 6.788,5.16666666667"
+             fill="#006A12"/>
+    <use href="#a" x=".9681142857143" y="-1.433333333333"/>
+    <use href="#a" x="-.9681142857143" y="-1.433333333333"/>
+</svg>
