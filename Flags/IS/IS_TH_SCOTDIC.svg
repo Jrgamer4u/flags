@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="18">
+    <rect width="25" height="18" fill="RGB(-5 72 132)"/>
+    <rect width="25" height="4" y="7" fill="RGB(244 244 244)"/>
+    <rect width="4" height="18" x="7" fill="RGB(244 244 244)"/>
+    <!-- I do not have access to SCOTDIC ICELAND red.-->
+    <rect width="25" height="2" y="8" fill="#D00000"/>
+    <rect width="2" height="18" x="8" fill="#D00000"/>
+</svg>
