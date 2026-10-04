@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+    <rect width="900" height="600" fill="LAB(35.7910 -21.0065 10.8191)"/>
+    <rect width="900" height="400" fill="LAB(88.2566 0.0689 1.4672)"/>
+    <rect width="900" height="200" fill="LAB(53.4924 45.1506 45.3933)"/>
+    <g transform="translate(450 300)" fill="#424361">
+        <circle r="92.5"/>
+        <circle r="80" fill="LAB(88.2566 0.0689 1.4672)"/>
+        <circle r="16"/>
+        <polygon id="a" points="0,8 -3,32 0,80 3,32"/>
+        <use href="#a" transform="rotate(15)"/>
+        <use href="#a" transform="rotate(30)"/>
+        <use href="#a" transform="rotate(45)"/>
+        <use href="#a" transform="rotate(60)"/>
+        <use href="#a" transform="rotate(75)"/>
+        <use href="#a" transform="rotate(90)"/>
+        <use href="#a" transform="rotate(105)"/>
+        <use href="#a" transform="rotate(120)"/>
+        <use href="#a" transform="rotate(135)"/>
+        <use href="#a" transform="rotate(150)"/>
+        <use href="#a" transform="rotate(165)"/>
+        <use href="#a" transform="rotate(180)"/>
+        <use href="#a" transform="rotate(195)"/>
+        <use href="#a" transform="rotate(210)"/>
+        <use href="#a" transform="rotate(225)"/>
+        <use href="#a" transform="rotate(240)"/>
+        <use href="#a" transform="rotate(255)"/>
+        <use href="#a" transform="rotate(270)"/>
+        <use href="#a" transform="rotate(285)"/>
+        <use href="#a" transform="rotate(300)"/>
+        <use href="#a" transform="rotate(315)"/>
+        <use href="#a" transform="rotate(330)"/>
+        <use href="#a" transform="rotate(345)"/>
+        <circle id="b" r="3.5" cy="80" transform="rotate(7.5)"/>
+        <use href="#b" transform="rotate(15)"/>
+        <use href="#b" transform="rotate(30)"/>
+        <use href="#b" transform="rotate(45)"/>
+        <use href="#b" transform="rotate(60)"/>
+        <use href="#b" transform="rotate(75)"/>
+        <use href="#b" transform="rotate(90)"/>
+        <use href="#b" transform="rotate(105)"/>
+        <use href="#b" transform="rotate(120)"/>
+        <use href="#b" transform="rotate(135)"/>
+        <use href="#b" transform="rotate(150)"/>
+        <use href="#b" transform="rotate(165)"/>
+        <use href="#b" transform="rotate(180)"/>
+        <use href="#b" transform="rotate(195)"/>
+        <use href="#b" transform="rotate(210)"/>
+        <use href="#b" transform="rotate(225)"/>
+        <use href="#b" transform="rotate(240)"/>
+        <use href="#b" transform="rotate(255)"/>
+        <use href="#b" transform="rotate(270)"/>
+        <use href="#b" transform="rotate(285)"/>
+        <use href="#b" transform="rotate(300)"/>
+        <use href="#b" transform="rotate(315)"/>
+        <use href="#b" transform="rotate(330)"/>
+        <use href="#b" transform="rotate(345)"/>
+    </g>
+</svg>
